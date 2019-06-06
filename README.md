@@ -1,9 +1,10 @@
 # DicomData
 
 - **findDCM.sh** - Finds all DICOM files (excluding DICOMDIR files) in a directory and writes the absolute path to "DCM_files.txt"
-
 - **process_files.py** - Creates soft links to files in "DCM_files.txt" and saves pixel data of medical images in a hierarchy by patient identification code. Ex: `some_parent/dcm_data/10-10364-01/LCCIMG12345.dcm` and `some_parent/npy_data/10-10364-01/LCCIMG12345.npy`.
 - **openDCM.py** - Either opens the medical image of a single DICOM file or opens tries to open the medical image of all DICOM files in a directory, depending on a flag.
+
+**Note:** It's important to mention that the above code is **NOT PERFECT**, that is, some of the directories soft links created might be named differently than expected. For example, previous exceptions include `10-12345-Patiente 1` and `Rexaggerated medio-lateralIMG12345.dcm`. This comes from the lack of standard naming in the files and as of now needs to be handled manually.
 
 ## On Opening DICOM Files
 
