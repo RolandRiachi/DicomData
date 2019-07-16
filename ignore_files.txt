@@ -1,0 +1,2314 @@
+/media/roland/WD_Passport/Anonymes/4074/01/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/01/DICOM/PA000001/ST000001/SE000006/IM000002
+/media/roland/WD_Passport/Anonymes/4074/01/DICOM/PA000001/ST000001/SE000006/IM000003
+/media/roland/WD_Passport/Anonymes/4074/01/DICOM/PA000001/ST000001/SE000006/IM000004
+/media/roland/WD_Passport/Anonymes/4074/01/DICOM/PA000001/ST000001/SE000006/IM000005
+/media/roland/WD_Passport/Anonymes/4074/01/DICOM/PA000001/ST000001/SE000006/IM000006
+/media/roland/WD_Passport/Anonymes/4074/01/DICOM/PA000001/ST000001/SE000009/IM000001
+/media/roland/WD_Passport/Anonymes/4074/02/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/02/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/02/DICOM/PA000003/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/02/DICOM/PA000004/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/03/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/03/DICOM/PA000003/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/03/DICOM/PA000004/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/04/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/04/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/04/DICOM/PA000003/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/05/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/05/DICOM/PA000002/ST000001/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/4074/05/DICOM/PA000003/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/06/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/06/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/07/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/07/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/07/DICOM/PA000003/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/08/DICOM/PA000001/ST000001/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/4074/08/DICOM/PA000001/ST000001/SE000004/IM000002
+/media/roland/WD_Passport/Anonymes/4074/08/DICOM/PA000001/ST000001/SE000004/IM000003
+/media/roland/WD_Passport/Anonymes/4074/08/DICOM/PA000001/ST000001/SE000004/IM000004
+/media/roland/WD_Passport/Anonymes/4074/08/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/4074/08/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/09/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/09/DICOM/PA000001/ST000001/SE000006/IM000002
+/media/roland/WD_Passport/Anonymes/4074/09/DICOM/PA000001/ST000001/SE000006/IM000003
+/media/roland/WD_Passport/Anonymes/4074/09/DICOM/PA000001/ST000001/SE000006/IM000004
+/media/roland/WD_Passport/Anonymes/4074/09/DICOM/PA000001/ST000001/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/4074/09/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/09/DICOM/PA000003/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/10/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/10/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/10/DICOM/PA000003/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/11/DICOM/PA000001/ST000001/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/4074/11/DICOM/PA000001/ST000001/SE000005/IM000002
+/media/roland/WD_Passport/Anonymes/4074/11/DICOM/PA000001/ST000001/SE000005/IM000003
+/media/roland/WD_Passport/Anonymes/4074/11/DICOM/PA000001/ST000001/SE000005/IM000004
+/media/roland/WD_Passport/Anonymes/4074/11/DICOM/PA000001/ST000001/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/4074/12/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/12/DICOM/PA000002/ST000001/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/4074/13/DICOM/PA000001/ST000001/SE000003/IM000001
+/media/roland/WD_Passport/Anonymes/4074/13/DICOM/PA000001/ST000001/SE000003/IM000002
+/media/roland/WD_Passport/Anonymes/4074/13/DICOM/PA000001/ST000001/SE000003/IM000003
+/media/roland/WD_Passport/Anonymes/4074/13/DICOM/PA000001/ST000001/SE000003/IM000004
+/media/roland/WD_Passport/Anonymes/4074/13/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/4074/13/DICOM/PA000001/ST000001/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/4074/13/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/14/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/15/DICOM/PA000001/ST000001/SE000001/IM000001
+/media/roland/WD_Passport/Anonymes/4074/15/DICOM/PA000001/ST000001/SE000001/IM000002
+/media/roland/WD_Passport/Anonymes/4074/15/DICOM/PA000001/ST000001/SE000001/IM000003
+/media/roland/WD_Passport/Anonymes/4074/15/DICOM/PA000001/ST000001/SE000001/IM000004
+/media/roland/WD_Passport/Anonymes/4074/15/DICOM/PA000001/ST000001/SE000001/IM000005
+/media/roland/WD_Passport/Anonymes/4074/15/DICOM/PA000001/ST000001/SE000001/IM000006
+/media/roland/WD_Passport/Anonymes/4074/15/DICOM/PA000001/ST000001/SE000009/IM000001
+/media/roland/WD_Passport/Anonymes/4074/15/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/4074/15/DICOM/PA000003/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10364/01/DICOM/59252A93
+/media/roland/WD_Passport/Anonymes/10364/01/DICOM/59252A94
+/media/roland/WD_Passport/Anonymes/10364/02/DICOM/5924F0E8
+/media/roland/WD_Passport/Anonymes/10364/02/DICOM/5924F0E9
+/media/roland/WD_Passport/Anonymes/10364/02/DICOM/5924F0EA
+/media/roland/WD_Passport/Anonymes/10364/02/DICOM/5924F0EB
+/media/roland/WD_Passport/Anonymes/10364/03/DICOM/5924F21A
+/media/roland/WD_Passport/Anonymes/10364/03/DICOM/5924F21B
+/media/roland/WD_Passport/Anonymes/10364/04/DICOM/5924F497
+/media/roland/WD_Passport/Anonymes/10364/04/DICOM/5924F498
+/media/roland/WD_Passport/Anonymes/10364/04/DICOM/5924F499
+/media/roland/WD_Passport/Anonymes/10364/05/DICOM/5924F65E
+/media/roland/WD_Passport/Anonymes/10364/05/DICOM/5924F65F
+/media/roland/WD_Passport/Anonymes/10364/05/DICOM/5924F66D
+/media/roland/WD_Passport/Anonymes/10364/05/DICOM/5924F66E
+/media/roland/WD_Passport/Anonymes/10364/06/DICOM/5924F676
+/media/roland/WD_Passport/Anonymes/10364/06/DICOM/5924F677
+/media/roland/WD_Passport/Anonymes/10364/06/DICOM/5924F684
+/media/roland/WD_Passport/Anonymes/10364/06/DICOM/5924F685
+/media/roland/WD_Passport/Anonymes/10364/07/DICOM/5924F78C
+/media/roland/WD_Passport/Anonymes/10364/07/DICOM/5924F78D
+/media/roland/WD_Passport/Anonymes/10364/08/DICOM/5924F795
+/media/roland/WD_Passport/Anonymes/10364/08/DICOM/5924F796
+/media/roland/WD_Passport/Anonymes/10364/08/DICOM/5924F7A3
+/media/roland/WD_Passport/Anonymes/10364/09/DICOM/5924F7B7
+/media/roland/WD_Passport/Anonymes/10364/10_ancien/DICOM/5924F7C6
+/media/roland/WD_Passport/Anonymes/10364/10_nouveau/DICOM/5924F7C6
+/media/roland/WD_Passport/Anonymes/10364/11/DICOM/5924F8E0
+/media/roland/WD_Passport/Anonymes/10364/12/DICOM/5924F9D0
+/media/roland/WD_Passport/Anonymes/10364/13/DICOM/5924FAC8
+/media/roland/WD_Passport/Anonymes/10364/14/DICOM/5924FADA
+/media/roland/WD_Passport/Anonymes/10364/15/DICOM/5924FAEE
+/media/roland/WD_Passport/Anonymes/10367/01/BOUCHARD,JOCELYNE 2013/00000005
+/media/roland/WD_Passport/Anonymes/10367/01/BOUCHARD,JOCELYNE 2014/00000005
+/media/roland/WD_Passport/Anonymes/10367/01/BOUCHARD,JOCELYNE 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/02/DUBE, EVE-MARIE 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/03/DELISLE,ANNE 2011/00000005
+/media/roland/WD_Passport/Anonymes/10367/03/DELISLE,ANNE 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/04/MONTMINY,EVE 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/05/MEYNAUD,SOPHIE 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/06/lamothe,josiane 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/07/simard,chantale 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/08/belanger,marie-andree 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/09/lanseigne,france 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/10/bonneau,judith 2016/00000005
+/media/roland/WD_Passport/Anonymes/10367/10/bonneau,judith 2016/00000006
+/media/roland/WD_Passport/Anonymes/10367/10/bonneau,judith 2016/00000007
+/media/roland/WD_Passport/Anonymes/10367/10/bonneau,judith 2017/00000006
+/media/roland/WD_Passport/Anonymes/10367/11/pepin,ginette 2013/00000005
+/media/roland/WD_Passport/Anonymes/10367/11/pepin,ginette 2013/00000006
+/media/roland/WD_Passport/Anonymes/10367/11/pepin,ginette 2013/00000007
+/media/roland/WD_Passport/Anonymes/10367/11/pepin,ginette 2015/00000005
+/media/roland/WD_Passport/Anonymes/10367/11/pepin,ginette 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/12/larochelle,huguette 2015/00000005
+/media/roland/WD_Passport/Anonymes/10367/12/larochelle,huguette 2016/00000005
+/media/roland/WD_Passport/Anonymes/10367/12/larochelle,huguette 2016/00000006
+/media/roland/WD_Passport/Anonymes/10367/12/larochelle,huguette 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/13/villeneuve,louise 2015/00000005
+/media/roland/WD_Passport/Anonymes/10367/13/villeneuve,louise 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/14/arel,gabrielle 2017/00000005
+/media/roland/WD_Passport/Anonymes/10367/15/royer,claude 2012/00000005
+/media/roland/WD_Passport/Anonymes/10367/15/royer,claude 2014/00000005
+/media/roland/WD_Passport/Anonymes/10367/15/royer,claude 2017/00000005
+/media/roland/WD_Passport/Anonymes/10576/01/SynapseMediaSets 314137/Syn20170628161519/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/02/SynapseMediaSets 333947/Syn20170629153805/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/02/SynapseMediaSets 333947/Syn20170629153805/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/10576/03/SynapseMediaSets 68109/Syn20170629154146/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/10576/03/SynapseMediaSets 68109/Syn20170629154146/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/10576/03/SynapseMediaSets 68109/Syn20170629154146/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/10576/03/SynapseMediaSets 68109/Syn20170629154146/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/10576/04/SynapseMediaSets 45397/Syn20170703114839/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/05/SynapseMediaSets 163503/Syn20170703115047/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/06/SynapseMediaSets 160679/Syn20170703115257/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/06/SynapseMediaSets 160679/Syn20170703115257/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10576/06/SynapseMediaSets 160679/Syn20170703115257/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/10576/06/SynapseMediaSets 160679/Syn20170703115257/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/10576/07/SynapseMediaSets 397178/Syn20170703120301/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/07/SynapseMediaSets 397178/Syn20170703120301/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10576/07/SynapseMediaSets 397178/Syn20170703120301/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/10576/08/SynapseMediaSets 71201/Syn20170703120550/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/08/SynapseMediaSets 71201/Syn20170703120550/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10576/09/SynapseMediaSets 554587/Syn20170703120748/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/10576/09/SynapseMediaSets 554587/Syn20170703120748/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/10576/09/SynapseMediaSets 554587/Syn20170703120748/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/10576/09/SynapseMediaSets 554587/Syn20170703120748/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/10576/10/SynapseMediaSets 150071/Syn20170703121001/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/10/SynapseMediaSets 150071/Syn20170703121001/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10576/11/SynapseMediaSets 583831/Syn20170703121220/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/10576/11/SynapseMediaSets 583831/Syn20170703121220/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/10576/11/SynapseMediaSets 583831/Syn20170703121220/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/10576/11/SynapseMediaSets 583831/Syn20170703121220/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/10576/11/SynapseMediaSets 583831/Syn20170703121220/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/10576/11/SynapseMediaSets 583831/Syn20170703121220/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/10576/12/SynapseMediaSets 656681/Syn20170703121355/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/10576/12/SynapseMediaSets 656681/Syn20170703121355/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/10576/12/SynapseMediaSets 656681/Syn20170703121355/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/10576/13/SynapseMediaSets 162281/Syn20170703121548/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/13/SynapseMediaSets 162281/Syn20170703121548/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10576/13/SynapseMediaSets 162281/Syn20170703121548/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/10576/14/SynapseMediaSets 547897/Syn20170704142629/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/14/SynapseMediaSets 547897/Syn20170704142629/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10576/14/SynapseMediaSets 547897/Syn20170704142629/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/10576/14/SynapseMediaSets 547897/Syn20170704142629/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/10576/14/SynapseMediaSets 547897/Syn20170704142629/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/10576/15/SynapseMediaSets 116514/Syn20170703121957/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10576/15/SynapseMediaSets 116514/Syn20170703121957/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/10576/15/SynapseMediaSets 116514/Syn20170703121957/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/10576/15/SynapseMediaSets 116514/Syn20170703121957/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/10576/15/SynapseMediaSets 116514/Syn20170703121957/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/10576/15/SynapseMediaSets 116514/Syn20170703121957/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000001/SE000006/IM000002
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000001/SE000006/IM000003
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000001/SE000006/IM000004
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000001/SE000006/IM000005
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000001/SE000007/IM000002
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000001/SE000007/IM000003
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000001/SE000010/IM000001
+/media/roland/WD_Passport/Anonymes/10867/01/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/02/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/02/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/02/DICOM/PA000001/ST000003/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/10867/03/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/10867/03/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/03/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/04/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/04/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/04/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/05/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/05/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/05/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/06/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/06/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/06/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/07/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/10867/07/DICOM/PA000001/ST000002/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/10867/07/DICOM/PA000001/ST000003/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/10867/07/DICOM/PA000001/ST000004/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/08/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/08/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/08/DICOM/PA000001/ST000003/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/10867/09/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/09/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/09/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/10/DICOM/PA000001/ST000001/SE000011/IM000001
+/media/roland/WD_Passport/Anonymes/10867/10/DICOM/PA000001/ST000002/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/10867/10/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/11/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/11/DICOM/PA000001/ST000002/SE000003/IM000001
+/media/roland/WD_Passport/Anonymes/10867/11/DICOM/PA000001/ST000002/SE000003/IM000002
+/media/roland/WD_Passport/Anonymes/10867/11/DICOM/PA000001/ST000002/SE000003/IM000003
+/media/roland/WD_Passport/Anonymes/10867/11/DICOM/PA000001/ST000002/SE000003/IM000004
+/media/roland/WD_Passport/Anonymes/10867/11/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/12/DICOM/PA000001/ST000001/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/10867/12/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/12/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/12/DICOM/PA000001/ST000004/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/13/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/10867/13/DICOM/PA000001/ST000001/SE000007/IM000002
+/media/roland/WD_Passport/Anonymes/10867/13/DICOM/PA000001/ST000001/SE000007/IM000003
+/media/roland/WD_Passport/Anonymes/10867/13/DICOM/PA000001/ST000001/SE000007/IM000004
+/media/roland/WD_Passport/Anonymes/10867/13/DICOM/PA000001/ST000001/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/10867/13/DICOM/PA000001/ST000001/SE000008/IM000002
+/media/roland/WD_Passport/Anonymes/10867/13/DICOM/PA000001/ST000001/SE000009/IM000001
+/media/roland/WD_Passport/Anonymes/10867/13/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/13/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/14/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/14/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/14/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/15/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10867/15/DICOM/PA000001/ST000002/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/10867/15/DICOM/PA000001/ST000002/SE000008/IM000002
+/media/roland/WD_Passport/Anonymes/10867/15/DICOM/PA000001/ST000002/SE000009/IM000001
+/media/roland/WD_Passport/Anonymes/10867/15/DICOM/PA000001/ST000002/SE000009/IM000002
+/media/roland/WD_Passport/Anonymes/10867/15/DICOM/PA000001/ST000002/SE000009/IM000003
+/media/roland/WD_Passport/Anonymes/10867/15/DICOM/PA000001/ST000002/SE000009/IM000004
+/media/roland/WD_Passport/Anonymes/10867/15/DICOM/PA000001/ST000002/SE000010/IM000001
+/media/roland/WD_Passport/Anonymes/10867/15/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/10903/01/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/10903/01/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10903/01/DICOMOBJ/00000018
+/media/roland/WD_Passport/Anonymes/10903/01/DICOMOBJ/00000019
+/media/roland/WD_Passport/Anonymes/10903/02/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10903/02/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/10903/03/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/10903/03/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10903/03/DICOMOBJ/00000017
+/media/roland/WD_Passport/Anonymes/10903/03/DICOMOBJ/00000018
+/media/roland/WD_Passport/Anonymes/10903/03/DICOMOBJ/00000025
+/media/roland/WD_Passport/Anonymes/10903/03/DICOMOBJ/00000026
+/media/roland/WD_Passport/Anonymes/10903/04/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/10903/04/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/10903/04/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/10903/04/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/10903/04/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/10903/04/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/10903/05/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10903/05/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/10903/05/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/10903/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10903/06/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/10903/06/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/10903/06/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/10903/07/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/10903/07/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10903/07/DICOMOBJ/00000017
+/media/roland/WD_Passport/Anonymes/10903/07/DICOMOBJ/00000018
+/media/roland/WD_Passport/Anonymes/10903/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10903/08/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/10903/08/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/10903/08/DICOMOBJ/0000001C
+/media/roland/WD_Passport/Anonymes/10903/08/DICOMOBJ/0000001D
+/media/roland/WD_Passport/Anonymes/10903/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10903/09/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10903/09/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/10903/09/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/10903/09/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/10903/10/DICOMDIR1
+/media/roland/WD_Passport/Anonymes/10903/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10903/10/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/10903/10/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/10903/10/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/10903/10/DICOMOBJ1/00000005
+/media/roland/WD_Passport/Anonymes/10903/11/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/10903/11/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10903/11/DICOMOBJ/00000017
+/media/roland/WD_Passport/Anonymes/10903/11/DICOMOBJ/00000018
+/media/roland/WD_Passport/Anonymes/10903/11/DICOMOBJ/00000025
+/media/roland/WD_Passport/Anonymes/10903/11/DICOMOBJ/00000026
+/media/roland/WD_Passport/Anonymes/10903/12/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/10903/12/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/10903/12/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/10903/12/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/10903/12/DICOMOBJ/0000001F
+/media/roland/WD_Passport/Anonymes/10903/12/DICOMOBJ/00000020
+/media/roland/WD_Passport/Anonymes/10903/13/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/10903/13/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10903/13/DICOMOBJ/00000017
+/media/roland/WD_Passport/Anonymes/10903/13/DICOMOBJ/00000018
+/media/roland/WD_Passport/Anonymes/10903/14/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/10903/14/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/10903/14/DICOMOBJ/00000018
+/media/roland/WD_Passport/Anonymes/10903/14/DICOMOBJ/00000019
+/media/roland/WD_Passport/Anonymes/10903/14/DICOMOBJ/00000026
+/media/roland/WD_Passport/Anonymes/10903/14/DICOMOBJ/00000027
+/media/roland/WD_Passport/Anonymes/10903/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/10903/15/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/10903/15/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/10903/15/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/10903/15/DICOMOBJ/0000001D
+/media/roland/WD_Passport/Anonymes/10903/15/DICOMOBJ/0000001E
+/media/roland/WD_Passport/Anonymes/10924/PATIENTE 4/DICOM/59976FEB
+/media/roland/WD_Passport/Anonymes/10924/PATIENTE 5/DICOM/59976FF9
+/media/roland/WD_Passport/Anonymes/11156/09/DATA/P0000005
+/media/roland/WD_Passport/Anonymes/11156/09/DATA/P0000006
+/media/roland/WD_Passport/Anonymes/11156/09/DATA/P0000007
+/media/roland/WD_Passport/Anonymes/11156/09/DATA/P0000008
+/media/roland/WD_Passport/Anonymes/11156/11/DATA/P0000005
+/media/roland/WD_Passport/Anonymes/11156/11/DATA/P0000006
+/media/roland/WD_Passport/Anonymes/11156/11/DATA/P0000007
+/media/roland/WD_Passport/Anonymes/11156/11/DATA/P0000008
+/media/roland/WD_Passport/Anonymes/11156/11/DATA/P0000009
+/media/roland/WD_Passport/Anonymes/11156/11/DATA/P0000010
+/media/roland/WD_Passport/Anonymes/11156/12/DATA/P0000005
+/media/roland/WD_Passport/Anonymes/11156/12/DATA/P0000006
+/media/roland/WD_Passport/Anonymes/11156/12/DATA/P0000007
+/media/roland/WD_Passport/Anonymes/11156/12/DATA/P0000008
+/media/roland/WD_Passport/Anonymes/11548/01/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/02/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/02/DICOM/PA000002/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/02/DICOM/PA000002/ST000002/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/11548/02/DICOM/PA000002/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/03/DICOM/PA000001/ST000001/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/11548/03/DICOM/PA000001/ST000001/SE000002/IM000002
+/media/roland/WD_Passport/Anonymes/11548/03/DICOM/PA000001/ST000001/SE000002/IM000003
+/media/roland/WD_Passport/Anonymes/11548/03/DICOM/PA000001/ST000001/SE000002/IM000004
+/media/roland/WD_Passport/Anonymes/11548/03/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/11548/04/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/05/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/06/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/06/DICOM/PA000001/ST000002/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/11548/06/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/06/DICOM/PA000001/ST000004/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/07/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/08/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/09/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/10/DICOM/PA000001/ST000001/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/11548/10/DICOM/PA000001/ST000002/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000001/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000001/SE000004/IM000002
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000001/SE000004/IM000003
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000001/SE000004/IM000004
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000001/SE000004/IM000005
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000001/SE000004/IM000006
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000001/SE000004/IM000007
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000002/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/11548/11/DICOM/PA000001/ST000003/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/11548/12/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/12/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/12/DICOM/PA000001/ST000003/SE000011/IM000001
+/media/roland/WD_Passport/Anonymes/11548/13/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/14/DICOM/PA000001/ST000001/SE000001/IM000001
+/media/roland/WD_Passport/Anonymes/11548/14/DICOM/PA000001/ST000001/SE000001/IM000002
+/media/roland/WD_Passport/Anonymes/11548/14/DICOM/PA000001/ST000001/SE000001/IM000003
+/media/roland/WD_Passport/Anonymes/11548/14/DICOM/PA000001/ST000001/SE000001/IM000004
+/media/roland/WD_Passport/Anonymes/11548/14/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/11548/14/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/14/DICOM/PA000001/ST000003/SE000003/IM000001
+/media/roland/WD_Passport/Anonymes/11548/15/DICOM/PA000001/ST000001/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/11548/15/DICOM/PA000001/ST000001/SE000002/IM000002
+/media/roland/WD_Passport/Anonymes/11548/15/DICOM/PA000001/ST000001/SE000002/IM000003
+/media/roland/WD_Passport/Anonymes/11548/15/DICOM/PA000001/ST000001/SE000002/IM000004
+/media/roland/WD_Passport/Anonymes/11548/15/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/11548/15/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/11548/15/DICOM/PA000001/ST000003/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/11798/03/2013-04-17/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/03/2015-05-22/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/03/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/04/2011-06-07/SYN00006
+/media/roland/WD_Passport/Anonymes/11798/04/2013-06-18/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/04/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/05/2012-11-26/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/05/2015-06-09/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/05/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/06/2015-03-19/SYN00006
+/media/roland/WD_Passport/Anonymes/11798/06/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/07/2013-05-21/SYN00006
+/media/roland/WD_Passport/Anonymes/11798/07/2015-05-20/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/07/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/08/2013-02-11/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/08/2015-03-19/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/08/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/09/2013-01-14/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/09/2015-03-04/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/09/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/11/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/12/2015-02-03/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/12/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/13/2013-06-20/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/13/2015-06-16/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/13/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/14/2013-04-11/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/14/2015-06-02/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/14/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/15/2014-01-09/SYN00005
+/media/roland/WD_Passport/Anonymes/11798/15/2017-06-15/SYN00005
+/media/roland/WD_Passport/Anonymes/12066/08/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/12066/08/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/12066/10/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/12066/10/DICOM/PA000000/ST000001/PR000001
+/media/roland/WD_Passport/Anonymes/12066/10/DICOM/PA000000/ST000001/PR000002
+/media/roland/WD_Passport/Anonymes/12066/10/DICOM/PA000000/ST000001/PR000003
+/media/roland/WD_Passport/Anonymes/12066/14/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/12066/14/DICOM/PA000000/ST000001/PR000001
+/media/roland/WD_Passport/Anonymes/12066/14/DICOM/PA000000/ST000001/PR000002
+/media/roland/WD_Passport/Anonymes/12066/14/DICOM/PA000000/ST000001/PR000003
+/media/roland/WD_Passport/Anonymes/12141/01/2013-01-04/SYN00005
+/media/roland/WD_Passport/Anonymes/12141/03/2013-05-21/SYN00005
+/media/roland/WD_Passport/Anonymes/12141/03/2013-05-21/SYN00006
+/media/roland/WD_Passport/Anonymes/12141/04/2014-01-09/SYN00011
+/media/roland/WD_Passport/Anonymes/12141/06/2014-03-28/SYN00005
+/media/roland/WD_Passport/Anonymes/12141/07/2013-07-05/SYN00005
+/media/roland/WD_Passport/Anonymes/12141/07/2013-07-05/SYN00006
+/media/roland/WD_Passport/Anonymes/12141/08/2013-01-23/SYN00005
+/media/roland/WD_Passport/Anonymes/12141/10/2013-05-07/SYN00005
+/media/roland/WD_Passport/Anonymes/12141/11/2013-06-26/SYN00006
+/media/roland/WD_Passport/Anonymes/12141/11/2013-06-26/SYN00007
+/media/roland/WD_Passport/Anonymes/12141/12/2013-02-05/SYN00006
+/media/roland/WD_Passport/Anonymes/12141/13/2015-01-15/SYN00007
+/media/roland/WD_Passport/Anonymes/12141/14/2013-06-13/SYN00005
+/media/roland/WD_Passport/Anonymes/12141/14/2013-06-13/SYN00006
+/media/roland/WD_Passport/Anonymes/12141/15/2013-06-25/SYN00005
+/media/roland/WD_Passport/Anonymes/12141/15/2014-07-02/SYN00005
+/media/roland/WD_Passport/Anonymes/12532/01/DATA/P0000011
+/media/roland/WD_Passport/Anonymes/12532/01/DATA/P0000012
+/media/roland/WD_Passport/Anonymes/12532/08/DATA/P0000006
+/media/roland/WD_Passport/Anonymes/12532/08/DATA/P0000007
+/media/roland/WD_Passport/Anonymes/12532/08/DATA/P0000014
+/media/roland/WD_Passport/Anonymes/12532/08/DATA/P0000015
+/media/roland/WD_Passport/Anonymes/12532/10/DATA/P0000005
+/media/roland/WD_Passport/Anonymes/12532/11/DATA/P0000000
+/media/roland/WD_Passport/Anonymes/12532/11/DATA/P0000001
+/media/roland/WD_Passport/Anonymes/12532/11/DATA/P0000002
+/media/roland/WD_Passport/Anonymes/12532/11/DATA/P0000003
+/media/roland/WD_Passport/Anonymes/12532/11/DATA/P0000010
+/media/roland/WD_Passport/Anonymes/12532/14/DATA/P0000000
+/media/roland/WD_Passport/Anonymes/12532/14/DATA/P0000001
+/media/roland/WD_Passport/Anonymes/12532/14/DATA/P0000008
+/media/roland/WD_Passport/Anonymes/12532/15/DATA/P0000006
+/media/roland/WD_Passport/Anonymes/12631/01/2013-02-09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/01/2015-03-28/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/01/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/02/2012-02-04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/02/2015-04-07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/02/2015-04-07/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/12631/02/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/03/2012-03-28/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/03/2015-02-26/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/03/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/04/1 ant dispo 2015-06-02/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/12631/04/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/05/1 ant. dispo. 2015-11-13/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/05/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/06/2012-10-25/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/06/2014-11-29/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/12631/06/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/07/2014-01-07/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/12631/07/2015-02-02/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/12631/07/2015-02-02/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/12631/07/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/08/2010-01-18/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/08/2015-04-08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/08/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/09/2013-06-20/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/09/2015-06-09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/09/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/09/2017-06-03/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/12631/10/2013-08-27/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/10/2015-07-27/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/10/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/10/2017-06-03/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/12631/11/2012-05-30/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/11/2014-05-25/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/11/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/12/2013-02-23/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/12/2015-04-07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/12/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/13/1ere mammo 2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/14/2014-03-25/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/14/2015-03-26/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/14/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/15/1 ant. dispo. 2013-07-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12631/15/2017-06-03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/12866/02/BIGRAS MARIE-CLAUDE 62062/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/12866/02/BIGRAS MARIE-CLAUDE 62062/DICOM/PA000000/ST000000/PR000001
+/media/roland/WD_Passport/Anonymes/12866/02/BIGRAS MARIE-CLAUDE 62062/DICOM/PA000000/ST000000/PR000002
+/media/roland/WD_Passport/Anonymes/12866/02/BIGRAS MARIE-CLAUDE 62062/DICOM/PA000000/ST000000/PR000003
+/media/roland/WD_Passport/Anonymes/12866/02/BIGRAS MARIE-CLAUDE 62062/DICOM/PA000000/ST000000/PR000004
+/media/roland/WD_Passport/Anonymes/12866/02/BIGRAS MARIE-CLAUDE 62062/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/12866/02/BIGRAS MARIE-CLAUDE 62062/DICOM/PA000000/ST000001/PR000001
+/media/roland/WD_Passport/Anonymes/12866/03/CYR JO-ANN 133937/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/12866/03/CYR JO-ANN 133937/DICOM/PA000000/ST000000/PR000001
+/media/roland/WD_Passport/Anonymes/12866/03/CYR JO-ANN 133937/DICOM/PA000000/ST000000/PR000002
+/media/roland/WD_Passport/Anonymes/12866/04/DUPUIS CHRISTIANE 214672/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/12866/04/DUPUIS CHRISTIANE 214672/DICOM/PA000000/ST000000/PR000001
+/media/roland/WD_Passport/Anonymes/12866/04/DUPUIS CHRISTIANE 214672/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/12866/05/LEFEBVRE JOCELYNE 102380/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/12866/05/LEFEBVRE JOCELYNE 102380/DICOM/PA000000/ST000000/PR000001
+/media/roland/WD_Passport/Anonymes/12866/05/LEFEBVRE JOCELYNE 102380/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/12866/07/GAMACHE MONIQUE 121067/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/12866/08/FONTAINE CECILE 39147/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/12866/09/VIENS DIANE 55135/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/12866/09/VIENS DIANE 55135/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/12866/10/POULIOT DIANE 60089/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/12866/10/POULIOT DIANE 60089/DICOM/PA000000/ST000000/PR000001
+/media/roland/WD_Passport/Anonymes/12866/11/BISAILLON ODETTE 46140/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/12866/12/PICARD REJEANNE 107847/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/12866/12/PICARD REJEANNE 107847/DICOM/PA000000/ST000000/PR000001
+/media/roland/WD_Passport/Anonymes/12866/12/PICARD REJEANNE 107847/DICOM/PA000000/ST000000/PR000002
+/media/roland/WD_Passport/Anonymes/12874/01/DICOM/PA000001/ST000002/SE000001/IM000001
+/media/roland/WD_Passport/Anonymes/12874/01/DICOM/PA000001/ST000002/SE000001/IM000002
+/media/roland/WD_Passport/Anonymes/12874/01/DICOM/PA000001/ST000002/SE000001/IM000003
+/media/roland/WD_Passport/Anonymes/12874/01/DICOM/PA000001/ST000002/SE000001/IM000004
+/media/roland/WD_Passport/Anonymes/12874/01/DICOM/PA000001/ST000002/SE000001/IM000005
+/media/roland/WD_Passport/Anonymes/12874/02/DICOM/PA000001/ST000001/SE000003/IM000001
+/media/roland/WD_Passport/Anonymes/12874/02/DICOM/PA000001/ST000001/SE000003/IM000002
+/media/roland/WD_Passport/Anonymes/12874/03/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/12874/03/DICOM/PA000001/ST000002/SE000006/IM000002
+/media/roland/WD_Passport/Anonymes/12874/03/DICOM/PA000001/ST000002/SE000006/IM000003
+/media/roland/WD_Passport/Anonymes/12874/03/DICOM/PA000001/ST000002/SE000006/IM000004
+/media/roland/WD_Passport/Anonymes/12874/03/DICOM/PA000001/ST000002/SE000006/IM000005
+/media/roland/WD_Passport/Anonymes/12874/04/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/12874/04/DICOM/PA000001/ST000001/SE000007/IM000002
+/media/roland/WD_Passport/Anonymes/12874/04/DICOM/PA000001/ST000001/SE000007/IM000003
+/media/roland/WD_Passport/Anonymes/12874/04/DICOM/PA000001/ST000001/SE000007/IM000004
+/media/roland/WD_Passport/Anonymes/12874/04/DICOM/PA000001/ST000001/SE000007/IM000005
+/media/roland/WD_Passport/Anonymes/12874/04/DICOM/PA000001/ST000001/SE000007/IM000006
+/media/roland/WD_Passport/Anonymes/12874/06/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/12874/06/DICOM/PA000001/ST000002/SE000006/IM000002
+/media/roland/WD_Passport/Anonymes/12874/06/DICOM/PA000001/ST000002/SE000006/IM000003
+/media/roland/WD_Passport/Anonymes/12874/06/DICOM/PA000001/ST000002/SE000006/IM000004
+/media/roland/WD_Passport/Anonymes/12874/06/DICOM/PA000001/ST000002/SE000006/IM000005
+/media/roland/WD_Passport/Anonymes/12874/09/DICOM/PA000001/ST000002/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/12874/09/DICOM/PA000001/ST000002/SE000007/IM000002
+/media/roland/WD_Passport/Anonymes/12874/09/DICOM/PA000001/ST000002/SE000007/IM000003
+/media/roland/WD_Passport/Anonymes/12874/09/DICOM/PA000001/ST000002/SE000007/IM000004
+/media/roland/WD_Passport/Anonymes/12874/09/DICOM/PA000001/ST000002/SE000007/IM000005
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000001/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000001/SE000002/IM000002
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000001/SE000002/IM000003
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000001/SE000002/IM000004
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000001/SE000002/IM000005
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000003/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000003/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000003/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/12874/15/DICOM/PA000001/ST000004/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/2219/03/247459 MC-KERNAN/VOL1/PAT1/STU2/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/2219/06/Z26905 LODIN/VOL1/PAT1/STU1/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/2219/06/Z26905 LODIN/VOL1/PAT1/STU1/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/2219/06/Z26905 LODIN/VOL1/PAT1/STU1/SER2/IMA1
+/media/roland/WD_Passport/Anonymes/2219/06/Z26905 LODIN/VOL1/PAT1/STU1/SER2/IMA2
+/media/roland/WD_Passport/Anonymes/2219/12/67240 COLLIN/VOL1/PAT1/STU3/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/2219/12/67240 COLLIN/VOL1/PAT1/STU3/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/59243137
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/5924313C
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/59243141
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/59243142
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/5924314E
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/59243150
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/59243151
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/59243152
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/59243153
+/media/roland/WD_Passport/Anonymes/2237/01/CD/DICOM/59243154
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C73
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C74
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C75
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C76
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C77
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C78
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C7B
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C7C
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C7D
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C7E
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C7F
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C80
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C81
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C84
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C85
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C86
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C87
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C8A
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C8B
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C8C
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C8D
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C8E
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C9B
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C9C
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C9D
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C9E
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231C9F
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231CA0
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231CA1
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231CA2
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231CA3
+/media/roland/WD_Passport/Anonymes/2237/02/CD/DICOM/59231CA4
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CAA
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CAB
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CAC
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CAD
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CAE
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CAF
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CB0
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CB3
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CB4
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CB5
+/media/roland/WD_Passport/Anonymes/2237/03/CD/DICOM/59231CB6
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CBE
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CBF
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CC0
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CC1
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CC2
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CC3
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CC8
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CC9
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CCA
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CD6
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CD8
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CD9
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CDF
+/media/roland/WD_Passport/Anonymes/2237/04/CD/DICOM/59231CE0
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ACD
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AE1
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AAA
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AAB
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AAC
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AAD
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AAE
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AAF
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AB0
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AB1
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AB2
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AB3
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AB4
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AB7
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ABA
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ABB
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ABC
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ABD
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ABE
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AC9
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ACA
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ACB
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ACC
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ACE
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ACF
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AD0
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AD1
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AD4
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AD5
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AD6
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AD7
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AD8
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AD9
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ADA
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ADB
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ADC
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232ADD
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AE0
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AE2
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AE3
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AE9
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AF0
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AF3
+/media/roland/WD_Passport/Anonymes/2237/05/CD/DICOM/59232AF4
+/media/roland/WD_Passport/Anonymes/2237/06/CD/DICOM/59232CDC
+/media/roland/WD_Passport/Anonymes/2237/06/CD/DICOM/59232CDF
+/media/roland/WD_Passport/Anonymes/2237/06/CD/DICOM/59232CED
+/media/roland/WD_Passport/Anonymes/2237/06/CD/DICOM/59232CF3
+/media/roland/WD_Passport/Anonymes/2237/06/CD/DICOM/59232CF4
+/media/roland/WD_Passport/Anonymes/2237/06/CD/DICOM/59232D00
+/media/roland/WD_Passport/Anonymes/2237/06/CD/DICOM/59232D02
+/media/roland/WD_Passport/Anonymes/2237/06/CD/DICOM/59232D03
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D09
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D0E
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D0F
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D10
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D11
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D12
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D13
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D1F
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D21
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D22
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D23
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D24
+/media/roland/WD_Passport/Anonymes/2237/07/CD/DICOM/59232D25
+/media/roland/WD_Passport/Anonymes/2237/08/CD/DICOM/59232D8C
+/media/roland/WD_Passport/Anonymes/2237/08/CD/DICOM/59232D91
+/media/roland/WD_Passport/Anonymes/2237/08/CD/DICOM/59232D92
+/media/roland/WD_Passport/Anonymes/2237/08/CD/DICOM/59232D93
+/media/roland/WD_Passport/Anonymes/2237/08/CD/DICOM/59232D9C
+/media/roland/WD_Passport/Anonymes/2237/08/CD/DICOM/59232DA1
+/media/roland/WD_Passport/Anonymes/2237/08/CD/DICOM/59232DA2
+/media/roland/WD_Passport/Anonymes/2237/09/CD/DICOM/59232DA9
+/media/roland/WD_Passport/Anonymes/2237/09/CD/DICOM/59232DB0
+/media/roland/WD_Passport/Anonymes/2237/09/CD/DICOM/59232DB1
+/media/roland/WD_Passport/Anonymes/2237/09/CD/DICOM/59232DBB
+/media/roland/WD_Passport/Anonymes/2237/09/CD/DICOM/59232DBF
+/media/roland/WD_Passport/Anonymes/2237/09/CD/DICOM/59232DC0
+/media/roland/WD_Passport/Anonymes/2237/10/CD/DICOM/59232DC7
+/media/roland/WD_Passport/Anonymes/2237/10/CD/DICOM/59232DCC
+/media/roland/WD_Passport/Anonymes/2237/10/CD/DICOM/59232DD9
+/media/roland/WD_Passport/Anonymes/2237/10/CD/DICOM/59232DDA
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/5923384C
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/5923384D
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/5923384E
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233851
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233852
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233855
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233856
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233857
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233858
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233865
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233866
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233867
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233868
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/59233869
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/5923386A
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/5923386B
+/media/roland/WD_Passport/Anonymes/2237/11/CD/DICOM/5923386C
+/media/roland/WD_Passport/Anonymes/2237/12/CD/DICOM/59233440
+/media/roland/WD_Passport/Anonymes/2237/12/CD/DICOM/59233447
+/media/roland/WD_Passport/Anonymes/2237/12/CD/DICOM/59233448
+/media/roland/WD_Passport/Anonymes/2237/12/CD/DICOM/59233454
+/media/roland/WD_Passport/Anonymes/2237/12/CD/DICOM/59233456
+/media/roland/WD_Passport/Anonymes/2237/12/CD/DICOM/59233457
+/media/roland/WD_Passport/Anonymes/2237/12/CD/DICOM/59233458
+/media/roland/WD_Passport/Anonymes/2237/12/CD/DICOM/59233459
+/media/roland/WD_Passport/Anonymes/2237/13/CD/DICOM/59233709
+/media/roland/WD_Passport/Anonymes/2237/13/CD/DICOM/59233711
+/media/roland/WD_Passport/Anonymes/2237/13/CD/DICOM/59233712
+/media/roland/WD_Passport/Anonymes/2237/13/CD/DICOM/5923371F
+/media/roland/WD_Passport/Anonymes/2237/13/CD/DICOM/59233720
+/media/roland/WD_Passport/Anonymes/2237/13/CD/DICOM/59233721
+/media/roland/WD_Passport/Anonymes/2237/13/CD/DICOM/59233722
+/media/roland/WD_Passport/Anonymes/2237/13/CD/DICOM/59233723
+/media/roland/WD_Passport/Anonymes/2237/14/CD/DICOM/59233802
+/media/roland/WD_Passport/Anonymes/2237/14/CD/DICOM/5923380D
+/media/roland/WD_Passport/Anonymes/2237/14/CD/DICOM/5923380E
+/media/roland/WD_Passport/Anonymes/2237/14/CD/DICOM/5923380F
+/media/roland/WD_Passport/Anonymes/2237/14/CD/DICOM/5923381B
+/media/roland/WD_Passport/Anonymes/2237/14/CD/DICOM/5923381D
+/media/roland/WD_Passport/Anonymes/2237/14/CD/DICOM/5923381E
+/media/roland/WD_Passport/Anonymes/2237/14/CD/DICOM/5923381F
+/media/roland/WD_Passport/Anonymes/2237/14/CD/DICOM/59233820
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233881
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233872
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233873
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233874
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/5923387B
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/5923387C
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/5923387D
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/5923387E
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/5923388E
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/5923388F
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233890
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233891
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233892
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233893
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233894
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233895
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233896
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233897
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233898
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/59233899
+/media/roland/WD_Passport/Anonymes/2237/15/CD/DICOM/5923389A
+/media/roland/WD_Passport/Anonymes/4076/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4076/02/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4076/02/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4076/02/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/4076/03/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4076/04/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4076/05/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4076/05/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/4076/05/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/4076/06/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4076/06/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/4076/06/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4076/06/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/4076/06/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/4076/06/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4076/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4076/07/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4076/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4076/08/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4076/08/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/4076/08/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/4076/08/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/4076/09/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4076/09/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/4076/09/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4076/09/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4076/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4076/10/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4076/10/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/4076/11/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4076/11/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4076/11/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/4076/12/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4076/13/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4076/13/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/4076/13/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4076/13/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4076/13/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/4076/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4076/14/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4076/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4348/02/DAIGLE MARYSE 39220/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/4348/02/DAIGLE MARYSE 39220/DICOM/PA000000/ST000000/PR000001
+/media/roland/WD_Passport/Anonymes/4348/03/BOUCHARD JOSEE 181505-ANT/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/4348/03/BOUCHARD JOSEE 181505-ANT/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/4348/03/BOUCHARD JOSEE 181505-ANT/DICOM/PA000000/ST000002/PR000001
+/media/roland/WD_Passport/Anonymes/4348/03/BOUCHARD JOSEE 181505-ANT/DICOM/PA000000/ST000002/PR000002
+/media/roland/WD_Passport/Anonymes/4348/03/BOUCHARD JOSEE 181505-ANT/DICOM/PA000000/ST000002/PR000003
+/media/roland/WD_Passport/Anonymes/4348/03/BOUCHARD JOSEE 181505-ANT/DICOM/PA000000/ST000003/PR000000
+/media/roland/WD_Passport/Anonymes/4348/04/DUROCHER RITA 108635 - ANT/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/4348/04/DUROCHER RITA 108635 - ANT/DICOM/PA000000/ST000001/PR000001
+/media/roland/WD_Passport/Anonymes/4348/04/DUROCHER RITA 108635 - ANT/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/4348/04/DUROCHER RITA 108635 - ANT/DICOM/PA000000/ST000002/PR000001
+/media/roland/WD_Passport/Anonymes/4348/04/DUROCHER RITA 108635 - ANT/DICOM/PA000000/ST000002/PR000002
+/media/roland/WD_Passport/Anonymes/4348/06/COTE LILIANE 182132 - ANT/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/4348/06/COTE LILIANE 182132 - ANT/DICOM/PA000000/ST000001/PR000001
+/media/roland/WD_Passport/Anonymes/4348/06/COTE LILIANE 182132 - ANT/DICOM/PA000000/ST000001/PR000002
+/media/roland/WD_Passport/Anonymes/4348/12/BRODEUR JOSEE 45658/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/4348/13/VAILLANCOURT BRIGITTE 504436/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/4348/13/VAILLANCOURT BRIGITTE 504436 - ANT/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/4394/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/01/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/01/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/4394/01/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4394/01/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/4394/01/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4394/02/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/02/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/03/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/03/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/4394/03/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4394/03/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/4394/03/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4394/04/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4394/04/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/4394/04/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/4394/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/04/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/4394/04/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4394/05/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/4394/05/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/05/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4394/05/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4394/05/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/4394/05/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/4394/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/06/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/06/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4394/06/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4394/06/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/4394/07/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4394/07/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/4394/07/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4394/07/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/4394/07/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/4394/07/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/4394/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/08/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/08/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/4394/08/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/4394/08/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/4394/08/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/4394/08/DICOMOBJ/00000015
+/media/roland/WD_Passport/Anonymes/4394/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/09/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/09/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/4394/09/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4394/09/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/4394/09/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4394/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/10/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/10/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/4394/10/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4394/10/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/4394/10/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4394/11/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4394/11/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/11/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4394/12/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/12/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/12/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/4394/12/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4394/12/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/4394/12/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4394/12/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/4394/13/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/13/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/13/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/4394/13/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4394/13/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/4394/13/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/00000015
+/media/roland/WD_Passport/Anonymes/4394/14/DICOMOBJ/00000016
+/media/roland/WD_Passport/Anonymes/4394/15/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/4394/15/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4394/15/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4394/15/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4394/15/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/4394/15/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4394/15/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/4689/05/250737 THIBAULT/VOL1/PAT1/STU3/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/4689/05/250737 THIBAULT/VOL1/PAT1/STU3/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/4689/05/250737 THIBAULT/VOL1/PAT1/STU3/SER2/IMA1
+/media/roland/WD_Passport/Anonymes/4689/05/250737 THIBAULT/VOL1/PAT1/STU3/SER2/IMA2
+/media/roland/WD_Passport/Anonymes/4689/06/T1797 BEAULIEU/VOL1/PAT1/STU2/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/4689/06/T1797 BEAULIEU/VOL1/PAT1/STU2/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/4689/09/D-9947 BELLEFEUILLE/VOL1/PAT1/STU2/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/4817/01/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/4817/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/01/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4817/01/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4817/01/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/4817/02/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/02/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4817/03/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4817/03/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/4817/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/04/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4817/04/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/4817/04/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4817/04/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/4817/04/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/4817/05/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4817/05/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/4817/05/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/4817/05/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/4817/06/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/4817/06/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/4817/06/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4817/06/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4817/06/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/4817/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/07/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4817/07/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/4817/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/08/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4817/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/09/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4817/09/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/4817/09/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/4817/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/10/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4817/11/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/11/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4817/12/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/12/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/4817/12/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4817/12/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/4817/13/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/13/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/4817/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/14/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/4817/14/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/4817/14/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/4817/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/4817/15/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5262/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5262/02/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/5262/02/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/5262/02/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5262/02/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/5262/02/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/5262/02/DICOMOBJ/00000016
+/media/roland/WD_Passport/Anonymes/5262/03/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/5262/03/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/5262/03/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/5262/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5262/05/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5262/05/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/5262/05/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/5262/05/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/5262/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5262/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5262/07/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5262/07/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5262/08/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/5262/08/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/5262/08/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/5262/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5262/09/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5262/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5262/10/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/5262/11/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/5262/11/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/5262/11/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/5262/11/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/5262/11/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/5262/12/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5262/12/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5262/13/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5262/13/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5262/13/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5262/14/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/5262/14/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/5262/14/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/5262/14/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/5262/15/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/5323/01/1/58B5E78F
+/media/roland/WD_Passport/Anonymes/5323/01/1/58B5E790
+/media/roland/WD_Passport/Anonymes/5323/01/DICOM/58B5E75D
+/media/roland/WD_Passport/Anonymes/5323/01/DICOM/58B5E769
+/media/roland/WD_Passport/Anonymes/5323/01/DICOM/58B5E76A
+/media/roland/WD_Passport/Anonymes/5323/01/DICOMDIR (2)
+/media/roland/WD_Passport/Anonymes/5323/02/DICOM/58B5E774
+/media/roland/WD_Passport/Anonymes/5323/02/DICOM/58B5E775
+/media/roland/WD_Passport/Anonymes/5323/02/DICOM/58B5E776
+/media/roland/WD_Passport/Anonymes/5323/02/DICOM/58B5E777
+/media/roland/WD_Passport/Anonymes/5323/02/DICOM/58B5E780
+/media/roland/WD_Passport/Anonymes/5323/03/58B5E79A
+/media/roland/WD_Passport/Anonymes/5323/03/DICOM/58B5E7A6
+/media/roland/WD_Passport/Anonymes/5323/03/DICOM/58B5E7A7
+/media/roland/WD_Passport/Anonymes/5323/03/DICOMDIR (2)
+/media/roland/WD_Passport/Anonymes/5323/04/2013/DICOM/58B5E74B
+/media/roland/WD_Passport/Anonymes/5323/04/2013/DICOM/58B5E74C
+/media/roland/WD_Passport/Anonymes/5323/04/2013/DICOM/58B5E74D
+/media/roland/WD_Passport/Anonymes/5323/04/2013/DICOM/58B5E74E
+/media/roland/WD_Passport/Anonymes/5323/04/DICOM/58B5E6EC
+/media/roland/WD_Passport/Anonymes/5323/05/2015-2013/DICOM/58B5E7B8
+/media/roland/WD_Passport/Anonymes/5323/05/2015-2013/DICOM/58B5E7B9
+/media/roland/WD_Passport/Anonymes/5323/05/2015-2013/DICOM/58B5E7BA
+/media/roland/WD_Passport/Anonymes/5323/05/2015-2013/DICOM/58B5E7BB
+/media/roland/WD_Passport/Anonymes/5323/05/2015-2013/DICOM/58B5E7C4
+/media/roland/WD_Passport/Anonymes/5323/05/DICOM/58B5E7CD
+/media/roland/WD_Passport/Anonymes/5323/05/DICOM/58B5E7CE
+/media/roland/WD_Passport/Anonymes/5323/05/DICOM/58B5E7CF
+/media/roland/WD_Passport/Anonymes/5323/05/DICOM/58B5E7D0
+/media/roland/WD_Passport/Anonymes/5323/06/2013-2015/DICOM/58B5E7DA
+/media/roland/WD_Passport/Anonymes/5323/06/2013-2015/DICOM/58B5E7DB
+/media/roland/WD_Passport/Anonymes/5323/06/2013-2015/DICOM/58B5E7DC
+/media/roland/WD_Passport/Anonymes/5323/06/2013-2015/DICOM/58B5E7DD
+/media/roland/WD_Passport/Anonymes/5323/06/2013-2015/DICOM/58B5E7DE
+/media/roland/WD_Passport/Anonymes/5323/06/2013-2015/DICOM/58B5E7E7
+/media/roland/WD_Passport/Anonymes/5323/07/2017 2014/DICOM/58B5E837
+/media/roland/WD_Passport/Anonymes/5323/07/2017 2014/DICOM/58B5E838
+/media/roland/WD_Passport/Anonymes/5323/07/2017 2014/DICOM/58B5E839
+/media/roland/WD_Passport/Anonymes/5323/07/2017 2014/DICOM/58B5E83B
+/media/roland/WD_Passport/Anonymes/5323/07/Cl. Audet/DICOM/58B5E84C
+/media/roland/WD_Passport/Anonymes/5323/07/DICOMDIR (2)
+/media/roland/WD_Passport/Anonymes/5323/08/DICOM/58B5E85B
+/media/roland/WD_Passport/Anonymes/5323/08/DICOM/58B5E85C
+/media/roland/WD_Passport/Anonymes/5323/08/DICOM/58B5E85D
+/media/roland/WD_Passport/Anonymes/5323/08/DICOM/58B5E85F
+/media/roland/WD_Passport/Anonymes/5323/08/DICOM/58B5E867
+/media/roland/WD_Passport/Anonymes/5323/09/DICOM/58B5E878
+/media/roland/WD_Passport/Anonymes/5323/09/DICOM/58B5E879
+/media/roland/WD_Passport/Anonymes/5323/09/DICOM/58B5E87A
+/media/roland/WD_Passport/Anonymes/5323/09/DICOM/58B5E87B
+/media/roland/WD_Passport/Anonymes/5323/09/DICOM/58B5E884
+/media/roland/WD_Passport/Anonymes/5323/10/DICOM/58B5E894
+/media/roland/WD_Passport/Anonymes/5323/10/DICOM/58B5E89B
+/media/roland/WD_Passport/Anonymes/5323/10/DICOM/58B5E89C
+/media/roland/WD_Passport/Anonymes/5323/10/DICOM/58B5E89D
+/media/roland/WD_Passport/Anonymes/5323/11/2013-2015/DICOM/58B5E8A8
+/media/roland/WD_Passport/Anonymes/5323/11/2013-2015/DICOM/58B5E8A9
+/media/roland/WD_Passport/Anonymes/5323/11/2013-2015/DICOM/58B5E8AA
+/media/roland/WD_Passport/Anonymes/5323/11/2013-2015/DICOM/58B5E8B3
+/media/roland/WD_Passport/Anonymes/5323/11/DICOMDIR (2)
+/media/roland/WD_Passport/Anonymes/5323/12/DICOM/58B5E8C4
+/media/roland/WD_Passport/Anonymes/5323/12/DICOM/58B5E8C5
+/media/roland/WD_Passport/Anonymes/5323/12/DICOM/58B5E8C6
+/media/roland/WD_Passport/Anonymes/5323/12/DICOM/58B5E8C9
+/media/roland/WD_Passport/Anonymes/5323/12/DICOM/58B5E8CD
+/media/roland/WD_Passport/Anonymes/5323/12/DICOM/58B5E8CE
+/media/roland/WD_Passport/Anonymes/5323/12/DICOM/58B5E8DA
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E8EF
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E8F0
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E8F1
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E8F8
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E8F9
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E8FA
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E904
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E905
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E906
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E907
+/media/roland/WD_Passport/Anonymes/5323/14/DICOM/58B5E908
+/media/roland/WD_Passport/Anonymes/5323/15/DICOM/58B5E912
+/media/roland/WD_Passport/Anonymes/5323/15/DICOM/58B5E913
+/media/roland/WD_Passport/Anonymes/5323/15/DICOM/58B5E914
+/media/roland/WD_Passport/Anonymes/5323/15/DICOM/58B5E915
+/media/roland/WD_Passport/Anonymes/5323/15/DICOM/58B5E91E
+/media/roland/WD_Passport/Anonymes/5420/01/#73913/DICOM/5926D7B2
+/media/roland/WD_Passport/Anonymes/5420/01/#73913/DICOM/5926D7B3
+/media/roland/WD_Passport/Anonymes/5420/02/#64068/DICOM/5926D7B9
+/media/roland/WD_Passport/Anonymes/5420/02/#64068/DICOM/5926D7BA
+/media/roland/WD_Passport/Anonymes/5420/02/#64068/DICOM/5926D7CA
+/media/roland/WD_Passport/Anonymes/5420/03/#65764/DICOM/5926D7DD
+/media/roland/WD_Passport/Anonymes/5420/03/#65764/DICOM/5926D7DE
+/media/roland/WD_Passport/Anonymes/5420/04/#74896/DICOM/5926D7EC
+/media/roland/WD_Passport/Anonymes/5420/04/#74896/DICOM/5926D7ED
+/media/roland/WD_Passport/Anonymes/5420/04/#74896/DICOM/5926D7EE
+/media/roland/WD_Passport/Anonymes/5420/04/#74896/DICOM/5926D7EF
+/media/roland/WD_Passport/Anonymes/5420/04/#74896/DICOM/5926D7FA
+/media/roland/WD_Passport/Anonymes/5420/04/#74896/DICOM/5926D7FB
+/media/roland/WD_Passport/Anonymes/5420/05/#70803/DICOM/5926D803
+/media/roland/WD_Passport/Anonymes/5420/05/#70803/DICOM/5926D804
+/media/roland/WD_Passport/Anonymes/5420/05/#70803/DICOM/5926D805
+/media/roland/WD_Passport/Anonymes/5420/05/#70803/DICOM/5926D813
+/media/roland/WD_Passport/Anonymes/5420/05/#70803/DICOM/5926D814
+/media/roland/WD_Passport/Anonymes/5420/06/#67868/DICOM/5926D828
+/media/roland/WD_Passport/Anonymes/5420/06/#67868/DICOM/5926D829
+/media/roland/WD_Passport/Anonymes/5420/07/#57544/DICOM/5926D835
+/media/roland/WD_Passport/Anonymes/5420/07/#57544/DICOM/5926D836
+/media/roland/WD_Passport/Anonymes/5420/08/#160947/DICOM/5926D789
+/media/roland/WD_Passport/Anonymes/5420/08/#160947/DICOM/5926D78A
+/media/roland/WD_Passport/Anonymes/5420/09/#124341/DICOM/5926D841
+/media/roland/WD_Passport/Anonymes/5420/09/#124341/DICOM/5926D842
+/media/roland/WD_Passport/Anonymes/5420/09/#124341/DICOM/5926D843
+/media/roland/WD_Passport/Anonymes/5420/09/#124341/DICOM/5926D84C
+/media/roland/WD_Passport/Anonymes/5420/09/#124341/DICOM/5926D84D
+/media/roland/WD_Passport/Anonymes/5420/10/#86965/DICOM/5926D9A1
+/media/roland/WD_Passport/Anonymes/5420/10/#86965/DICOM/5926D9A2
+/media/roland/WD_Passport/Anonymes/5420/11/#108882/DICOM/5926D9B9
+/media/roland/WD_Passport/Anonymes/5420/11/#108882/DICOM/5926D9BA
+/media/roland/WD_Passport/Anonymes/5420/11/#108882/DICOM/5926D9BB
+/media/roland/WD_Passport/Anonymes/5420/11/#108882/DICOM/5926D9BC
+/media/roland/WD_Passport/Anonymes/5420/11/#108882/DICOM/5926D9BD
+/media/roland/WD_Passport/Anonymes/5420/11/#108882/DICOM/5926D9BE
+/media/roland/WD_Passport/Anonymes/5420/11/#108882/DICOM/5926D9BF
+/media/roland/WD_Passport/Anonymes/5420/12/74611/DICOM/5926D9CF
+/media/roland/WD_Passport/Anonymes/5420/12/74611/DICOM/5926D9D0
+/media/roland/WD_Passport/Anonymes/5420/12/74611/DICOM/5926D9D1
+/media/roland/WD_Passport/Anonymes/5420/12/74611/DICOM/5926D9DA
+/media/roland/WD_Passport/Anonymes/5420/12/74611/DICOM/5926D9DB
+/media/roland/WD_Passport/Anonymes/5420/13/#136103/DICOM/5926D9EB
+/media/roland/WD_Passport/Anonymes/5420/14/#56494/DICOM/5926DA01
+/media/roland/WD_Passport/Anonymes/5420/14/#56494/DICOM/5926DA02
+/media/roland/WD_Passport/Anonymes/5420/14/#56494/DICOM/5926DA03
+/media/roland/WD_Passport/Anonymes/5420/14/#56494/DICOM/5926DA04
+/media/roland/WD_Passport/Anonymes/5420/14/#56494/DICOM/5926DA05
+/media/roland/WD_Passport/Anonymes/5420/14/#56494/DICOM/5926DA06
+/media/roland/WD_Passport/Anonymes/5420/14/#56494/DICOM/5926DA08
+/media/roland/WD_Passport/Anonymes/5420/15/#99772/DICOM/5926DA10
+/media/roland/WD_Passport/Anonymes/5420/15/#99772/DICOM/5926DA11
+/media/roland/WD_Passport/Anonymes/5420/15/#99772/DICOM/5926DA12
+/media/roland/WD_Passport/Anonymes/5420/15/#99772/DICOM/5926DA13
+/media/roland/WD_Passport/Anonymes/5420/15/#99772/DICOM/5926DA21
+/media/roland/WD_Passport/Anonymes/5586/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/02/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/02/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5586/02/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/03/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5586/03/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/04/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5586/04/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/05/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/5586/05/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/5586/05/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/5586/05/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/5586/05/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/5586/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/06/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5586/06/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/07/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/5586/07/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/5586/07/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/5586/07/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/07/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/5586/07/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/5586/07/DICOMOBJ/00000016
+/media/roland/WD_Passport/Anonymes/5586/08/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/09/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/5586/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/10/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5586/10/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/11/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/11/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5586/11/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/12/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/12/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/5586/12/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/5586/12/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/5586/12/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/5586/12/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/12/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/5586/12/DICOMOBJ/00000017
+/media/roland/WD_Passport/Anonymes/5586/13/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/13/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5586/13/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5586/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5586/14/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/5586/14/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5586/14/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/5586/14/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/5586/14/DICOMOBJ/00000016
+/media/roland/WD_Passport/Anonymes/5586/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5703/01/mammo antérieur du 26 avril 2015/00000005
+/media/roland/WD_Passport/Anonymes/5703/01/mammo antérieure du 24 mai 2016/00000005
+/media/roland/WD_Passport/Anonymes/5703/02/mammo ant. 20160503 (Argenteuil)/00000003
+/media/roland/WD_Passport/Anonymes/5703/02/mammo ant. 20160503 (Argenteuil)/00000004
+/media/roland/WD_Passport/Anonymes/5703/02/mammo ant. 20160503 (Argenteuil)/00000007
+/media/roland/WD_Passport/Anonymes/5703/02/mammo ant. du 20160926/00000004
+/media/roland/WD_Passport/Anonymes/5703/03/mammo ant. 20150509/00000005
+/media/roland/WD_Passport/Anonymes/5703/03/mammo ant. 20160511/00000006
+/media/roland/WD_Passport/Anonymes/5703/04/mammo ant. 20160503/00000005
+/media/roland/WD_Passport/Anonymes/5703/04/mammo ant. 20170406/00000002
+/media/roland/WD_Passport/Anonymes/5703/04/mammo ant. 20170406/00000003
+/media/roland/WD_Passport/Anonymes/5703/04/mammo ant. 20170406/00000004
+/media/roland/WD_Passport/Anonymes/5703/04/mammo ant. 20170406/00000005
+/media/roland/WD_Passport/Anonymes/5703/04/mammo ant. 20170406/0000000A
+/media/roland/WD_Passport/Anonymes/5703/06/mammo ant 20160229/00000005
+/media/roland/WD_Passport/Anonymes/5703/06/mammo ant. 20150204/00000002
+/media/roland/WD_Passport/Anonymes/5703/06/mammo ant. 20150204/00000003
+/media/roland/WD_Passport/Anonymes/5703/06/mammo ant. 20150204/00000008
+/media/roland/WD_Passport/Anonymes/5703/07/mammo ant 20150814/00000005
+/media/roland/WD_Passport/Anonymes/5703/07/mammo ant. 20140804/00000005
+/media/roland/WD_Passport/Anonymes/5703/08/mammo ant. 20150526/00000005
+/media/roland/WD_Passport/Anonymes/5703/08/mammo ant. 20150526/00000006
+/media/roland/WD_Passport/Anonymes/5703/08/mammo ant. 20160517/00000006
+/media/roland/WD_Passport/Anonymes/5703/08/mammo ant. 20160517/00000007
+/media/roland/WD_Passport/Anonymes/5703/08/mammo ant. 20160517/00000008
+/media/roland/WD_Passport/Anonymes/5703/08/mammo ant. 20160517/00000009
+/media/roland/WD_Passport/Anonymes/5703/09/mammo 20150509/00000006
+/media/roland/WD_Passport/Anonymes/5703/09/mammo ant. 20160520/00000005
+/media/roland/WD_Passport/Anonymes/5703/10/mammo ant. 20150319/00000002
+/media/roland/WD_Passport/Anonymes/5703/10/mammo ant. 20150319/00000003
+/media/roland/WD_Passport/Anonymes/5703/10/mammo ant. 20150319/00000008
+/media/roland/WD_Passport/Anonymes/5703/10/mammo ant. 20160407/00000005
+/media/roland/WD_Passport/Anonymes/5703/11/mammo 20140331/00000005
+/media/roland/WD_Passport/Anonymes/5703/11/mammo 20151124/00000005
+/media/roland/WD_Passport/Anonymes/5703/12/mammo ant. 20150401/00000006
+/media/roland/WD_Passport/Anonymes/5703/12/mammo ant. 20160609/00000005
+/media/roland/WD_Passport/Anonymes/5703/13/mammo ant 20160415/00000005
+/media/roland/WD_Passport/Anonymes/5703/13/mammo ant. 20150205/00000007
+/media/roland/WD_Passport/Anonymes/5703/14/mammo ant. 20150504/00000005
+/media/roland/WD_Passport/Anonymes/5703/14/mammo ant. 20160510/00000003
+/media/roland/WD_Passport/Anonymes/5703/14/mammo ant. 20160510/00000004
+/media/roland/WD_Passport/Anonymes/5703/14/mammo ant. 20160510/00000007
+/media/roland/WD_Passport/Anonymes/5703/15/mammo ant. 20150729/00000005
+/media/roland/WD_Passport/Anonymes/5703/15/mammo ant. 20160718/00000002
+/media/roland/WD_Passport/Anonymes/5703/15/mammo ant. 20160718/00000003
+/media/roland/WD_Passport/Anonymes/5703/15/mammo ant. 20160718/00000004
+/media/roland/WD_Passport/Anonymes/5703/15/mammo ant. 20160718/00000005
+/media/roland/WD_Passport/Anonymes/5703/15/mammo ant. 20160718/0000000A
+/media/roland/WD_Passport/Anonymes/5776/01/DICOM/PA000001/ST000001/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/5934/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/01/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/5934/01/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/5934/01/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/5934/02/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/03/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/04/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/05/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/05/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/05/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/5934/05/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/5934/05/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/5934/05/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/5934/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/07/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/5934/07/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/07/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/5934/07/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/5934/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/08/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/08/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5934/09/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/5934/09/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/5934/09/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/5934/09/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/5934/09/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/09/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/5934/09/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/5934/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/10/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/10/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5934/11/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/11/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/12/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/12/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/12/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5934/13/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/5934/13/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/5934/13/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/5934/13/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/5934/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5934/14/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5934/14/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5934/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/01/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5960/01/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5960/02/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/5960/02/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/5960/02/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/5960/02/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/5960/02/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/5960/02/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/5960/02/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/5960/02/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/5960/03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/03/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5960/03/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5960/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/04/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5960/04/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/5960/04/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/5960/05/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/06/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5960/06/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5960/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/07/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5960/07/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5960/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/09/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/5960/09/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/5960/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/10/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/5960/10/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/5960/10/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/5960/11/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/11/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5960/11/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/5960/11/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/5960/11/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/5960/12/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/12/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5960/12/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/5960/13/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/5960/13/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/5960/13/DICOMOBJ/00000015
+/media/roland/WD_Passport/Anonymes/5960/14/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/5960/14/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/5960/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/14/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/5960/14/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/5960/14/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/5960/14/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/5960/14/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/5960/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/5960/15/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/5960/15/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6161/02/DATA/P0000005
+/media/roland/WD_Passport/Anonymes/6161/02/DATA/P0000006
+/media/roland/WD_Passport/Anonymes/6161/02/DATA/P0000007
+/media/roland/WD_Passport/Anonymes/6161/02/DATA/P0000008
+/media/roland/WD_Passport/Anonymes/6161/02/DATA/P0000009
+/media/roland/WD_Passport/Anonymes/6161/02/DATA/P0000010
+/media/roland/WD_Passport/Anonymes/6161/09/DATA/P0000011
+/media/roland/WD_Passport/Anonymes/6161/12/DATA/P0000005
+/media/roland/WD_Passport/Anonymes/6161/12/DATA/P0000012
+/media/roland/WD_Passport/Anonymes/6161/12/DATA/P0000013
+/media/roland/WD_Passport/Anonymes/6326/01/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/6326/01/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6326/01/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6326/02/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/02/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6326/02/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6326/02/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/6326/02/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/6326/03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/03/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6326/03/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6326/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/04/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6326/04/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6326/05/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/05/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6326/05/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6326/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/06/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6326/06/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6326/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/07/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/6326/07/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6326/07/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/6326/08/DICOMOBJ/00000001
+/media/roland/WD_Passport/Anonymes/6326/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/08/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6326/08/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/6326/08/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/6326/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/09/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6326/09/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6326/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/10/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6326/10/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6326/11/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/6326/11/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/6326/11/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/6326/11/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/6326/11/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/6326/11/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6326/11/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/6326/11/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/6326/12/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/6326/12/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/6326/12/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/6326/12/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/6326/12/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/6326/13/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/13/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/6326/13/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6326/13/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/6326/13/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/6326/13/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/6326/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6326/14/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6326/14/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6326/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6486/03/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/6486/06/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/6486/09/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/6486/09/DICOM/PA000000/ST000001/PR000001
+/media/roland/WD_Passport/Anonymes/6486/12/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/6486/12/DICOM/PA000000/ST000002/PR000001
+/media/roland/WD_Passport/Anonymes/6486/13/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/6486/13/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/6486/13/DICOM/PA000000/ST000001/PR000001
+/media/roland/WD_Passport/Anonymes/6504/01/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/6504/01/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6504/01/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/6504/01/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/6504/01/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/6504/01/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/6504/02/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/6504/02/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6504/02/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6504/02/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/6504/02/DICOMOBJ/00000022
+/media/roland/WD_Passport/Anonymes/6504/02/DICOMOBJ/00000023
+/media/roland/WD_Passport/Anonymes/6504/03/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/6504/03/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6504/03/DICOMOBJ/00000017
+/media/roland/WD_Passport/Anonymes/6504/03/DICOMOBJ/00000018
+/media/roland/WD_Passport/Anonymes/6504/03/DICOMOBJ/00000026
+/media/roland/WD_Passport/Anonymes/6504/03/DICOMOBJ/00000027
+/media/roland/WD_Passport/Anonymes/6504/04/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/6504/04/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6504/04/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6504/04/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/6504/04/DICOMOBJ/0000001D
+/media/roland/WD_Passport/Anonymes/6504/04/DICOMOBJ/0000001E
+/media/roland/WD_Passport/Anonymes/6504/05/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/6504/05/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/6504/05/DICOMOBJ/00000017
+/media/roland/WD_Passport/Anonymes/6504/05/DICOMOBJ/00000018
+/media/roland/WD_Passport/Anonymes/6504/05/DICOMOBJ/00000023
+/media/roland/WD_Passport/Anonymes/6504/05/DICOMOBJ/00000024
+/media/roland/WD_Passport/Anonymes/6504/06/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/6504/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6504/06/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/6504/06/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/6504/06/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/6504/06/DICOMOBJ/0000001E
+/media/roland/WD_Passport/Anonymes/6504/06/DICOMOBJ/0000001F
+/media/roland/WD_Passport/Anonymes/6504/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6504/07/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/6504/07/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6504/07/DICOMOBJ/0000001E
+/media/roland/WD_Passport/Anonymes/6504/07/DICOMOBJ/0000001F
+/media/roland/WD_Passport/Anonymes/6504/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6504/08/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6504/08/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/6504/08/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/6504/08/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/6504/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6504/10/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/6504/10/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6504/10/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/6504/10/DICOMOBJ/00000015
+/media/roland/WD_Passport/Anonymes/6504/10/DICOMOBJ/00000016
+/media/roland/WD_Passport/Anonymes/6504/11/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6504/11/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6504/11/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/6504/11/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/6504/12/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6504/12/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6504/12/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/6504/12/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/6504/13/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6504/13/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/6504/13/DICOMOBJ/00000013
+/media/roland/WD_Passport/Anonymes/6504/13/DICOMOBJ/00000020
+/media/roland/WD_Passport/Anonymes/6504/13/DICOMOBJ/00000021
+/media/roland/WD_Passport/Anonymes/6504/14/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/6504/14/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/6504/14/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/6504/14/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/6504/14/DICOMOBJ/00000019
+/media/roland/WD_Passport/Anonymes/6504/14/DICOMOBJ/0000001A
+/media/roland/WD_Passport/Anonymes/6504/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6504/15/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/6504/15/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6504/15/DICOMOBJ/0000001C
+/media/roland/WD_Passport/Anonymes/6504/15/DICOMOBJ/0000001D
+/media/roland/WD_Passport/Anonymes/6571/01-COWAN,LINE/antérieur-COWAN-20160427/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/6571/01-COWAN,LINE/antérieur-COWAN-20160427/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/6571/01-COWAN,LINE/COWAN-20170530/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/02-VIGEANT,DANIELE/antérieur-VIGEANT-20151222/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/6571/02-VIGEANT,DANIELE/antérieur-VIGEANT-20151222/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/6571/02-VIGEANT,DANIELE/VIGEANT-20170530/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/02-VIGEANT,DANIELE/VIGEANT-20170530/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6571/03-BOURGEOIS,BRIGITTE/BOURGEOIS-20170530/CLICHÉS SUP/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/6571/03-BOURGEOIS,BRIGITTE/BOURGEOIS-20170530/MAMMO/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/04-LESAGE,MONIQUE/antérieur-LESAGE-20140922/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6571/05-VEILLETTE,DIANE/antérieur-VEILLETTE-20131217/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/05-VEILLETTE,DIANE/antérieur-VEILLETTE-20160608/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/06-CHARRON,CLAUDETTE/antérieur-CHARRON-20130530/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/07-BLAIS,JENNY/BLAIS-20170601/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/6571/07-BLAIS,JENNY/BLAIS-20170601/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/6571/07-BLAIS,JENNY/BLAIS-20170601/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/6571/09-LAFLAMME,LOUISE/antérieur-LAFLAMME-20130612/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/10-PILOTTE,FRANCINE/antérieur-PILOTTE-20130404/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/11-BROUSSEAU,DANIELE/antérieur-BROUSSEAU-20130604/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/12-ROCHON,CLAUDIA/antérieur-ROCHON-20160330/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/6571/12-ROCHON,CLAUDIA/antérieur-ROCHON-20160330/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/6571/12-ROCHON,CLAUDIA/antérieur-ROCHON-20160330/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/6571/12-ROCHON,CLAUDIA/antérieur-ROCHON-20160330/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/12-ROCHON,CLAUDIA/antérieur-ROCHON-20160330/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/6571/12-ROCHON,CLAUDIA/ROCHON-20170605/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6571/15-LAVOIE,DOLORES/antérieur-LAVOIE-20130219/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6599/01/DICOM/5924EC4F
+/media/roland/WD_Passport/Anonymes/6599/01/DICOM/5924EC50
+/media/roland/WD_Passport/Anonymes/6599/02/DICOM/5924EC3C
+/media/roland/WD_Passport/Anonymes/6599/02/DICOM/5924EC3D
+/media/roland/WD_Passport/Anonymes/6599/03/DICOM/5924F0FD
+/media/roland/WD_Passport/Anonymes/6599/03/DICOM/5924F0FE
+/media/roland/WD_Passport/Anonymes/6599/04/DICOM/5924F10A
+/media/roland/WD_Passport/Anonymes/6599/04/DICOM/5924F10B
+/media/roland/WD_Passport/Anonymes/6599/05/DICOM/5924F209
+/media/roland/WD_Passport/Anonymes/6599/07/DICOM/5924F23B
+/media/roland/WD_Passport/Anonymes/6599/07/DICOM/5924F23D
+/media/roland/WD_Passport/Anonymes/6599/08/DICOM/5924F24B
+/media/roland/WD_Passport/Anonymes/6599/09/DICOM/5924F25F
+/media/roland/WD_Passport/Anonymes/6599/10/DICOM/5924F26C
+/media/roland/WD_Passport/Anonymes/6599/10/DICOM/5924F26D
+/media/roland/WD_Passport/Anonymes/6599/10/DICOM/5924F26E
+/media/roland/WD_Passport/Anonymes/6599/10/DICOM/5924F276
+/media/roland/WD_Passport/Anonymes/6599/11/DICOM/5924F370
+/media/roland/WD_Passport/Anonymes/6599/12/DICOM/5924F380
+/media/roland/WD_Passport/Anonymes/6599/13/DICOM/5924F394
+/media/roland/WD_Passport/Anonymes/6599/14/DICOM/5924F3A9
+/media/roland/WD_Passport/Anonymes/6599/15/DICOM/5924F3C9
+/media/roland/WD_Passport/Anonymes/6804/01/183797 MIR HASAN/VOL1/PAT1/STU1/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/6804/01/183797 MIR HASAN/VOL1/PAT1/STU1/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/6804/02/D05035 MARTINEAU/VOL1/PAT1/STU1/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/6804/02/D05035 MARTINEAU/VOL1/PAT1/STU1/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/6804/04/331982 ZERYOUH/VOL1/PAT1/STU1/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/6804/04/331982 ZERYOUH/VOL1/PAT1/STU1/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/6804/07/113173 PERRON/VOL1/PAT1/STU1/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/6804/07/113173 PERRON/VOL1/PAT1/STU1/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/6804/07/113173 PERRON/VOL1/PAT1/STU3/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/6804/07/113173 PERRON/VOL1/PAT1/STU3/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/6804/10/308746 MIMEAULT/VOL1/PAT1/STU2/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/6804/10/308746 MIMEAULT/VOL1/PAT1/STU2/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/6804/13/116689 MARTEL/VOL1/PAT1/STU2/SER1/IMA1
+/media/roland/WD_Passport/Anonymes/6804/13/116689 MARTEL/VOL1/PAT1/STU2/SER1/IMA2
+/media/roland/WD_Passport/Anonymes/6815/01/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/01/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/01/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000001/SE000006/IM000002
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000001/SE000006/IM000003
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000001/SE000006/IM000004
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000001/SE000006/IM000005
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000001/SE000006/IM000006
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000001/SE000006/IM000007
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000001/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/02/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/03/DICOM/PA000001/ST000001/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/6815/03/DICOM/PA000001/ST000003/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/6815/03/DICOM/PA000001/ST000003/SE000002/IM000002
+/media/roland/WD_Passport/Anonymes/6815/03/DICOM/PA000001/ST000003/SE000002/IM000003
+/media/roland/WD_Passport/Anonymes/6815/03/DICOM/PA000001/ST000003/SE000002/IM000004
+/media/roland/WD_Passport/Anonymes/6815/03/DICOM/PA000001/ST000003/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/6815/04/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/04/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/04/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/05/DICOM/PA000001/ST000001/SE000009/IM000001
+/media/roland/WD_Passport/Anonymes/6815/05/DICOM/PA000001/ST000002/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/6815/06/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/06/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/06/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/07/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/07/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/07/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/08/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/6815/08/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/08/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/09/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/09/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/09/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/10/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/10/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/10/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/11/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/11/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/11/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/12/DICOM/PA000001/ST000001/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/6815/12/DICOM/PA000001/ST000001/SE000002/IM000002
+/media/roland/WD_Passport/Anonymes/6815/12/DICOM/PA000001/ST000001/SE000002/IM000003
+/media/roland/WD_Passport/Anonymes/6815/12/DICOM/PA000001/ST000001/SE000002/IM000004
+/media/roland/WD_Passport/Anonymes/6815/12/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/6815/12/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/12/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/13/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/13/DICOM/PA000001/ST000002/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/6815/13/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/14/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/14/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/14/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/15/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/15/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6815/15/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/6868/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/02/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/6868/02/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6868/02/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/6868/02/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/6868/02/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/6868/02/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/6868/03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/03/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6868/03/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6868/04/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/6868/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/04/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/6868/05/DICOMOBJ/000000A6
+/media/roland/WD_Passport/Anonymes/6868/05/DICOMOBJ/000000A7
+/media/roland/WD_Passport/Anonymes/6868/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/06/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6868/06/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/6868/06/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6868/06/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6868/06/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/6868/06/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/6868/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/11/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/12/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/6868/12/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6868/13/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/6868/13/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/13/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6868/13/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/6868/13/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6868/13/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/6868/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/6868/15/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/6868/15/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/6868/15/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/7028/02/IMAGES 2013/DICOM/PA000000/ST000000/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/7028/02/IMAGES 2013/DICOM/PA000000/ST000000/SE000000/IM000001
+/media/roland/WD_Passport/Anonymes/7028/02/IMAGES 2013/DICOM/PA000000/ST000001/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/7028/02/IMAGES 2013/DICOM/PA000000/ST000001/SE000000/IM000001
+/media/roland/WD_Passport/Anonymes/7028/08/IMAGES 2013/DICOM/PA000000/ST000000/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/7028/13/IMAGES 2016-06/DICOM/PA000000/ST000000/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/7028/13/IMAGES 2016-06/DICOM/PA000000/ST000000/SE000000/IM000001
+/media/roland/WD_Passport/Anonymes/7028/14/IMAGES 2015/DICOM/PA000000/ST000000/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/7028/14/IMAGES 2015/DICOM/PA000000/ST000000/SE000000/IM000001
+/media/roland/WD_Passport/Anonymes/7028/14/IMAGES 2015/DICOM/PA000000/ST000000/SE000000/IM000002
+/media/roland/WD_Passport/Anonymes/7028/14/IMAGES 2015/DICOM/PA000000/ST000000/SE000000/IM000003
+/media/roland/WD_Passport/Anonymes/7028/14/IMAGES 2015/DICOM/PA000000/ST000001/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/7028/14/IMAGES 2015/DICOM/PA000000/ST000001/SE000000/IM000001
+/media/roland/WD_Passport/Anonymes/7028/14/IMAGES 2015/DICOM/PA000000/ST000001/SE000000/IM000002
+/media/roland/WD_Passport/Anonymes/7028/14/IMAGES 2015/DICOM/PA000000/ST000001/SE000000/IM000003
+/media/roland/WD_Passport/Anonymes/7028/14/IMAGES 2015/DICOM/PA000000/ST000001/SE000000/IM000004
+/media/roland/WD_Passport/Anonymes/7095/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7095/01/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7095/01/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/7095/01/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/7095/02/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/7095/02/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/7095/02/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/7095/02/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/7095/02/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7095/02/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/7095/02/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/7095/02/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/7095/03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7095/03/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7095/03/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/7095/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7095/04/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7095/04/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/7095/05/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/7095/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7095/06/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7095/06/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/7095/07/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/7095/08/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/7095/08/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/7095/08/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/7095/08/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/7095/08/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/7095/08/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/7095/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7095/09/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7095/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7095/10/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7095/10/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/7095/11/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7095/11/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7095/11/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/7095/12/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7095/12/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7095/12/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/7095/13/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/7095/13/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/7095/13/DICOMOBJ/00000015
+/media/roland/WD_Passport/Anonymes/7095/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7095/14/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/7095/14/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/7095/15/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/7139/01/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/01/DICOM/PA000001/ST000002/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/7139/01/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/01/DICOM/PA000001/ST000004/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/7139/01/DICOM/PA000001/ST000004/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/7139/01/DICOM/PA000001/ST000005/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/02/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/02/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/02/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000001/SE000009/IM000001
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000001/IM000001
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000001/IM000002
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000001/IM000003
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000001/IM000004
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000002/IM000002
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000002/IM000003
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000002/IM000004
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000003/IM000001
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000003/IM000002
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000003/IM000003
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000003/IM000004
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000002/SE000011/IM000001
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000003/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/7139/03/DICOM/PA000001/ST000004/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/04/DICOM/PA000001/ST000001/SE000001/IM000001
+/media/roland/WD_Passport/Anonymes/7139/04/DICOM/PA000001/ST000001/SE000001/IM000002
+/media/roland/WD_Passport/Anonymes/7139/04/DICOM/PA000001/ST000001/SE000001/IM000003
+/media/roland/WD_Passport/Anonymes/7139/04/DICOM/PA000001/ST000001/SE000001/IM000004
+/media/roland/WD_Passport/Anonymes/7139/04/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/7139/04/DICOM/PA000001/ST000002/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/7139/05/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/7139/05/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/05/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/06/DICOM/PA000001/ST000001/SE000003/IM000001
+/media/roland/WD_Passport/Anonymes/7139/06/DICOM/PA000001/ST000001/SE000003/IM000002
+/media/roland/WD_Passport/Anonymes/7139/06/DICOM/PA000001/ST000001/SE000003/IM000003
+/media/roland/WD_Passport/Anonymes/7139/06/DICOM/PA000001/ST000001/SE000003/IM000004
+/media/roland/WD_Passport/Anonymes/7139/06/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/7139/07/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/07/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/07/DICOM/PA000001/ST000003/SE000010/IM000001
+/media/roland/WD_Passport/Anonymes/7139/08/DICOM/PA000001/ST000001/SE000010/IM000001
+/media/roland/WD_Passport/Anonymes/7139/08/DICOM/PA000001/ST000002/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/7139/08/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/09/DICOM/PA000001/ST000001/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/7139/09/DICOM/PA000001/ST000001/SE000002/IM000002
+/media/roland/WD_Passport/Anonymes/7139/09/DICOM/PA000001/ST000001/SE000002/IM000003
+/media/roland/WD_Passport/Anonymes/7139/09/DICOM/PA000001/ST000001/SE000002/IM000004
+/media/roland/WD_Passport/Anonymes/7139/09/DICOM/PA000001/ST000001/SE000010/IM000001
+/media/roland/WD_Passport/Anonymes/7139/09/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/09/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000002/SE000010/IM000001
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000003/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000004/SE000001/IM000001
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000004/SE000001/IM000002
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000004/SE000001/IM000003
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000004/SE000001/IM000004
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000004/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000004/SE000007/IM000002
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000004/SE000007/IM000003
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000004/SE000007/IM000004
+/media/roland/WD_Passport/Anonymes/7139/10/DICOM/PA000001/ST000004/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/7139/11/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/11/DICOM/PA000001/ST000002/SE000009/IM000001
+/media/roland/WD_Passport/Anonymes/7139/12/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/12/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/12/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/12/DICOM/PA000001/ST000004/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/13/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/13/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/13/DICOM/PA000001/ST000003/SE000003/IM000001
+/media/roland/WD_Passport/Anonymes/7139/13/DICOM/PA000001/ST000004/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/14/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000001/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000001/SE000009/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000002/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000002/SE000004/IM000002
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000002/SE000004/IM000003
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000002/SE000004/IM000004
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000002/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000002/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000003/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000003/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000003/SE000005/IM000002
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000004/SE000001/IM000001
+/media/roland/WD_Passport/Anonymes/7139/15/DICOM/PA000001/ST000005/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/7245/01/Patiente 1 image/Syn20170803092250/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/01/Patiente 1 image/Syn20170803092250/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7245/02/Patiente 2 image/Syn20170803092604/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/7245/02/Patiente 2 image/Syn20170803092604/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/7245/02/Patiente 2 image/Syn20170803092604/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/7245/02/Patiente 2 image/Syn20170803092604/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/02/Patiente 2 image/Syn20170803092604/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/7245/02/Patiente 2 image/Syn20170803092604/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/7245/03/Patiente 3 image/Syn20170803092751/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/03/Patiente 3 image/Syn20170803092751/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7245/04/Patiente 4 image/Syn20170803092922/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/04/Patiente 4 image/Syn20170803092922/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7245/05/Patiente 5 image/Syn20170803093041/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/05/Patiente 5 image/Syn20170803093041/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7245/06/Patiente 6 image/Syn20170803093320/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/06/Patiente 6 image/Syn20170803093320/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/7245/06/Patiente 6 image/Syn20170803093320/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/7245/06/Patiente 6 image/Syn20170803093320/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/7245/07/Patinete 7 image/Syn20170803093727/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/7245/07/Patinete 7 image/Syn20170803093727/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/7245/08/Patinete 8 image/Syn20170803094030/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/08/Patinete 8 image/Syn20170803094030/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7245/09/Patiente 9 image/Syn20170803094135/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/09/Patiente 9 image/Syn20170803094135/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7245/11/Patiente 11 image/Syn20170803094318/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/12/Patiente 12 image/Syn20170803094419/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/12/Patiente 12 image/Syn20170803094419/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7245/13/Patiente 13 image/Syn20170803094551/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/13/Patiente 13 image/Syn20170803094551/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7245/14/Patiente 14 image/Syn20170803094716/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/14/Patiente 14 image/Syn20170803094716/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7245/15/Patiente 15 image/Syn20170803094855/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/7245/15/Patiente 15 image/Syn20170803094855/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/7589/01/DICOM/5931DA19
+/media/roland/WD_Passport/Anonymes/7589/01/DICOM/5931DA1A
+/media/roland/WD_Passport/Anonymes/8371/01/IMAGES DICOM PATIENTE #1/Syn20170621134227/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/01/IMAGES DICOM PATIENTE #1/Syn20170621134227/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/8371/01/IMAGES DICOM PATIENTE #1/Syn20170621134227/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/8371/02/IMAGES PATIENTE #2/Syn20170621144053/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/8371/02/IMAGES PATIENTE #2/Syn20170621144053/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/02/IMAGES PATIENTE #2/Syn20170621144053/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/8371/02/IMAGES PATIENTE #2/Syn20170621144053/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/8371/02/IMAGES PATIENTE #2/Syn20170621144053/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/8371/02/IMAGES PATIENTE #2/Syn20170621144053/DICOMOBJ/00000012
+/media/roland/WD_Passport/Anonymes/8371/02/IMAGES PATIENTE #2/Syn20170621144053/DICOMOBJ/00000014
+/media/roland/WD_Passport/Anonymes/8371/03/IMAGES PATIENTE #3/Syn20170621143820/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/03/IMAGES PATIENTE #3/Syn20170621143820/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/8371/03/IMAGES PATIENTE #3/Syn20170621143820/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/8371/04/IAMAGES PATIENTE #4/Syn20170621144442/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/04/IAMAGES PATIENTE #4/Syn20170621144442/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/8371/04/IAMAGES PATIENTE #4/Syn20170621144442/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/8371/04/IAMAGES PATIENTE #4/Syn20170621144442/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/8371/04/IAMAGES PATIENTE #4/Syn20170621144442/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/8371/05/IMAGES PATIENTE #5/Syn20170621144851/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/05/IMAGES PATIENTE #5/Syn20170621144851/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/8371/05/IMAGES PATIENTE #5/Syn20170621144851/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/8371/06/IMAGES PATIENTE#6/Syn20170621150018/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/8371/06/IMAGES PATIENTE#6/Syn20170621150018/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/8371/06/IMAGES PATIENTE#6/Syn20170621150018/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/8371/07/IAMGES PATIENTE #7/Syn20170621150321/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/8371/07/IAMGES PATIENTE #7/Syn20170621150321/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/8371/07/IAMGES PATIENTE #7/Syn20170621150321/DICOMOBJ/0000000E
+/media/roland/WD_Passport/Anonymes/8371/07/IAMGES PATIENTE #7/Syn20170621150321/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/8371/08/IMAGES PATIENTE #8/Syn20170621150556/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/09/IMAGES PATIENTE #9/Syn20170621150819/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/09/IMAGES PATIENTE #9/Syn20170621150819/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/8371/09/IMAGES PATIENTE #9/Syn20170621150819/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/8371/10/IMAGES PATIENTE #10/Syn20170621151123/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/10/IMAGES PATIENTE #10/Syn20170621151123/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/8371/10/IMAGES PATIENTE #10/Syn20170621151123/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/8371/11/IMAGES PATIENTE #11/Syn20170621151846/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/8371/11/IMAGES PATIENTE #11/Syn20170621151846/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/8371/11/IMAGES PATIENTE #11/Syn20170621151846/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/8371/12/IMAGES PATIENTE #12/Syn20170621152114/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/12/IMAGES PATIENTE #12/Syn20170621152114/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/8371/12/IMAGES PATIENTE #12/Syn20170621152114/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/8371/13/IMAGES PATIENTE #13/Syn20170621152429/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/8371/13/IMAGES PATIENTE #13/Syn20170621152429/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/8371/13/IMAGES PATIENTE #13/Syn20170621152429/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/8371/13/IMAGES PATIENTE #13/Syn20170621152429/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/13/IMAGES PATIENTE #13/Syn20170621152429/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/8371/13/IMAGES PATIENTE #13/Syn20170621152429/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/8371/13/IMAGES PATIENTE #13/Syn20170621152429/DICOMOBJ/0000000D
+/media/roland/WD_Passport/Anonymes/8371/13/IMAGES PATIENTE #13/Syn20170621152429/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/8371/14/IMAGES PATIENTE #14/Syn20170621152714/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/8371/14/IMAGES PATIENTE #14/Syn20170621152714/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/8371/14/IMAGES PATIENTE #14/Syn20170621152714/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/8371/14/IMAGES PATIENTE #14/Syn20170621152714/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/8371/14/IMAGES PATIENTE #14/Syn20170621152714/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000001B
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000001C
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000001D
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000001E
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000001F
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000020
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000021
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000022
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000023
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000024
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000025
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000026
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000027
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000028
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000029
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000002A
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000002B
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000002C
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000002D
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/0000002E
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000030
+/media/roland/WD_Passport/Anonymes/8371/15/IMAGES PATIENTE #15/Syn20170621153001/DICOMOBJ/00000034
+/media/roland/WD_Passport/Anonymes/8488/05/DICOM/PA000000/ST000000/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/8488/06/DICOM/PA000000/ST000001/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/8488/06/DICOM/PA000000/ST000001/SE000000/IM000001
+/media/roland/WD_Passport/Anonymes/8488/08/DICOM/PA000000/ST000000/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/8488/08/DICOM/PA000000/ST000001/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/8488/08/DICOM/PA000000/ST000001/SE000000/IM000001
+/media/roland/WD_Passport/Anonymes/8488/12/DICOM/PA000000/ST000000/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/8488/12/DICOM/PA000000/ST000000/SE000000/IM000001
+/media/roland/WD_Passport/Anonymes/8488/12/DICOM/PA000000/ST000001/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/8488/12/DICOM/PA000000/ST000001/SE000000/IM000001
+/media/roland/WD_Passport/Anonymes/8488/15/DICOM/PA000000/ST000000/SE000000/IM000000
+/media/roland/WD_Passport/Anonymes/8536/01/DICOM/591F8E0A
+/media/roland/WD_Passport/Anonymes/8536/01/DICOM/591F8E0D
+/media/roland/WD_Passport/Anonymes/8536/01/DICOM/591F8E0E
+/media/roland/WD_Passport/Anonymes/8536/01/DICOM/591F8E0F
+/media/roland/WD_Passport/Anonymes/8536/02/DICOM/591F8E29
+/media/roland/WD_Passport/Anonymes/8536/03/DICOM/591F8E33
+/media/roland/WD_Passport/Anonymes/8536/04/DICOM/591F8E41
+/media/roland/WD_Passport/Anonymes/8536/04/DICOM/591F8E46
+/media/roland/WD_Passport/Anonymes/8536/05/DICOM/591F8F2B
+/media/roland/WD_Passport/Anonymes/8536/05/DICOM/591F8F2C
+/media/roland/WD_Passport/Anonymes/8536/05/DICOM/591F8F39
+/media/roland/WD_Passport/Anonymes/8536/06/DICOM/591F904B
+/media/roland/WD_Passport/Anonymes/8536/07/DICOM/591F9059
+/media/roland/WD_Passport/Anonymes/8536/08/DICOM/591F91F8
+/media/roland/WD_Passport/Anonymes/8536/09/DICOM/591F914F
+/media/roland/WD_Passport/Anonymes/8536/10/DICOM/591F9206
+/media/roland/WD_Passport/Anonymes/8536/10/DICOM/591F9207
+/media/roland/WD_Passport/Anonymes/8536/10/DICOM/591F9209
+/media/roland/WD_Passport/Anonymes/8536/11/DICOM/591F9217
+/media/roland/WD_Passport/Anonymes/8536/11/DICOM/591F9218
+/media/roland/WD_Passport/Anonymes/8536/12/DICOM/591F9226
+/media/roland/WD_Passport/Anonymes/8536/12/DICOM/591F9227
+/media/roland/WD_Passport/Anonymes/8536/13/DICOM/591F933C
+/media/roland/WD_Passport/Anonymes/8536/14/DICOM/591F9418
+/media/roland/WD_Passport/Anonymes/8536/15/DICOM/591F95E8
+/media/roland/WD_Passport/Anonymes/8536/15/DICOM/591F95EA
+/media/roland/WD_Passport/Anonymes/8658/01/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/01/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/02/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/02/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/02/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/03/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/03/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/03/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/04/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/04/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/05/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/05/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/06/DICOM/PA000001/ST000001/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/8658/06/DICOM/PA000001/ST000003/SE000003/IM000001
+/media/roland/WD_Passport/Anonymes/8658/06/DICOM/PA000001/ST000003/SE000003/IM000002
+/media/roland/WD_Passport/Anonymes/8658/06/DICOM/PA000001/ST000003/SE000003/IM000003
+/media/roland/WD_Passport/Anonymes/8658/06/DICOM/PA000001/ST000003/SE000003/IM000004
+/media/roland/WD_Passport/Anonymes/8658/06/DICOM/PA000001/ST000003/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/8658/06/DICOM/PA000001/ST000003/SE000004/IM000002
+/media/roland/WD_Passport/Anonymes/8658/07/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/07/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/07/DICOM/PA000001/ST000003/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/8658/08/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/08/DICOM/PA000001/ST000002/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/8658/08/DICOM/PA000001/ST000003/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/8658/09/DICOM/PA000001/ST000001/SE000003/IM000001
+/media/roland/WD_Passport/Anonymes/8658/09/DICOM/PA000001/ST000001/SE000003/IM000002
+/media/roland/WD_Passport/Anonymes/8658/09/DICOM/PA000001/ST000001/SE000003/IM000003
+/media/roland/WD_Passport/Anonymes/8658/09/DICOM/PA000001/ST000001/SE000003/IM000004
+/media/roland/WD_Passport/Anonymes/8658/09/DICOM/PA000001/ST000001/SE000004/IM000001
+/media/roland/WD_Passport/Anonymes/8658/09/DICOM/PA000001/ST000001/SE000008/IM000001
+/media/roland/WD_Passport/Anonymes/8658/10/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/10/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/11/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/11/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/12/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/8658/12/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/12/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/13/DICOM/PA000001/ST000001/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/14/DICOM/PA000001/ST000001/SE000002/IM000001
+/media/roland/WD_Passport/Anonymes/8658/14/DICOM/PA000001/ST000001/SE000002/IM000002
+/media/roland/WD_Passport/Anonymes/8658/14/DICOM/PA000001/ST000001/SE000002/IM000003
+/media/roland/WD_Passport/Anonymes/8658/14/DICOM/PA000001/ST000001/SE000002/IM000004
+/media/roland/WD_Passport/Anonymes/8658/14/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/8658/14/DICOM/PA000001/ST000002/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/8658/14/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/15/DICOM/PA000001/ST000001/SE000005/IM000001
+/media/roland/WD_Passport/Anonymes/8658/15/DICOM/PA000001/ST000001/SE000005/IM000002
+/media/roland/WD_Passport/Anonymes/8658/15/DICOM/PA000001/ST000001/SE000005/IM000003
+/media/roland/WD_Passport/Anonymes/8658/15/DICOM/PA000001/ST000001/SE000005/IM000004
+/media/roland/WD_Passport/Anonymes/8658/15/DICOM/PA000001/ST000001/SE000007/IM000001
+/media/roland/WD_Passport/Anonymes/8658/15/DICOM/PA000001/ST000002/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/8658/15/DICOM/PA000001/ST000003/SE000006/IM000001
+/media/roland/WD_Passport/Anonymes/9174/01/Patiente 1 image/Syn20170622133608/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9174/01/Patiente 1 image/Syn20170622133608/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9174/02/Patiente 2 images/Syn20170622134158/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9174/02/Patiente 2 images/Syn20170622134158/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9174/03/Patiente 3 images/Syn20170622134610/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9174/03/Patiente 3 images/Syn20170622134610/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9174/04/Patiente 4 images/Syn20170622135016/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9174/06/Patient 6 images/Syn20170622135820/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9174/06/Patient 6 images/Syn20170622135820/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/9174/08/Patiente 8 images/Syn20170622140612/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9174/09/Patiente 9 images/Syn20170622141031/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9174/09/Patiente 9 images/Syn20170622141031/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9174/09/Patiente 9 images/Syn20170622141031/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/9174/10/Patiente 10 images/Syn20170622141508/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9174/10/Patiente 10 images/Syn20170622141508/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9174/10/Patiente 10 images/Syn20170622141508/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/9174/13/Patient 13 images/Syn20170622142517/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9174/13/Patient 13 images/Syn20170622142517/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9174/15/patiente 15 images/Syn20170622143516/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9174/15/patiente 15 images/Syn20170622143516/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9332/03/CD2/DICOM/5920B2ED
+/media/roland/WD_Passport/Anonymes/9332/03/CD2/DICOM/5920B2EF
+/media/roland/WD_Passport/Anonymes/9332/03/CD2/DICOM/5920B2F1
+/media/roland/WD_Passport/Anonymes/9332/03/CD2/DICOM/5920B2F2
+/media/roland/WD_Passport/Anonymes/9332/03/CD2/DICOM/5920B2F3
+/media/roland/WD_Passport/Anonymes/9332/03/CD2/DICOM/5920B2F5
+/media/roland/WD_Passport/Anonymes/9332/14/CD1/DICOM/5920DF01
+/media/roland/WD_Passport/Anonymes/9359/01/DICOM/59620F91
+/media/roland/WD_Passport/Anonymes/9359/02/DICOM/59620F70
+/media/roland/WD_Passport/Anonymes/9359/02/DICOM/59620F7C
+/media/roland/WD_Passport/Anonymes/9359/03/DICOM/5998E3C0
+/media/roland/WD_Passport/Anonymes/9359/03/DICOM/5998E3C1
+/media/roland/WD_Passport/Anonymes/9359/03/DICOM/5998E3C2
+/media/roland/WD_Passport/Anonymes/9359/03/DICOM/5998E3C3
+/media/roland/WD_Passport/Anonymes/9359/03/DICOM/5998E3C4
+/media/roland/WD_Passport/Anonymes/9359/03/DICOM/5998E3D1
+/media/roland/WD_Passport/Anonymes/9359/03/DICOM/5998E3D2
+/media/roland/WD_Passport/Anonymes/9359/03/DICOM/5998E3D3
+/media/roland/WD_Passport/Anonymes/9359/04/DICOM/5962095A
+/media/roland/WD_Passport/Anonymes/9359/04/DICOM/5962095B
+/media/roland/WD_Passport/Anonymes/9359/04/DICOM/5962095C
+/media/roland/WD_Passport/Anonymes/9359/04/DICOM/5962095D
+/media/roland/WD_Passport/Anonymes/9359/04/DICOM/5962095E
+/media/roland/WD_Passport/Anonymes/9359/04/DICOM/5962095F
+/media/roland/WD_Passport/Anonymes/9359/04/DICOM/59620960
+/media/roland/WD_Passport/Anonymes/9359/05/DICOM/59620930
+/media/roland/WD_Passport/Anonymes/9359/05/DICOM/59620931
+/media/roland/WD_Passport/Anonymes/9359/05/DICOM/59620932
+/media/roland/WD_Passport/Anonymes/9359/05/DICOM/5962093F
+/media/roland/WD_Passport/Anonymes/9359/06/DICOM/5962084B
+/media/roland/WD_Passport/Anonymes/9359/06/DICOM/5962084C
+/media/roland/WD_Passport/Anonymes/9359/06/DICOM/5962084F
+/media/roland/WD_Passport/Anonymes/9359/06/DICOM/5962085A
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/59620835
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/59620837
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/59620838
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/59620839
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/5962083A
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/5962083B
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/5962083C
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/5962083D
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/5962083E
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/5962083F
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/59620840
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/59620841
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/59620842
+/media/roland/WD_Passport/Anonymes/9359/07/DICOM/59620843
+/media/roland/WD_Passport/Anonymes/9359/08/DICOM/59620817
+/media/roland/WD_Passport/Anonymes/9359/08/DICOM/59620819
+/media/roland/WD_Passport/Anonymes/9359/08/DICOM/5962081A
+/media/roland/WD_Passport/Anonymes/9359/08/DICOM/5962081B
+/media/roland/WD_Passport/Anonymes/9359/08/DICOM/59620827
+/media/roland/WD_Passport/Anonymes/9359/09/DICOM/59620812
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/596207F9
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/596207FC
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/596207FD
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/596207FE
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/596207FF
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/59620800
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/59620801
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/59620802
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/59620803
+/media/roland/WD_Passport/Anonymes/9359/10/DICOM/59620804
+/media/roland/WD_Passport/Anonymes/9359/11/DICOM/5961FED7
+/media/roland/WD_Passport/Anonymes/9359/12/DICOM/5961FEB9
+/media/roland/WD_Passport/Anonymes/9359/12/DICOM/5961FEC7
+/media/roland/WD_Passport/Anonymes/9359/12/DICOM/5961FEC8
+/media/roland/WD_Passport/Anonymes/9359/12/DICOM/5961FEC9
+/media/roland/WD_Passport/Anonymes/9359/13/DICOM/5961FEA1
+/media/roland/WD_Passport/Anonymes/9359/13/DICOM/5961FEA2
+/media/roland/WD_Passport/Anonymes/9359/13/DICOM/5961FEA3
+/media/roland/WD_Passport/Anonymes/9359/13/DICOM/5961FEAF
+/media/roland/WD_Passport/Anonymes/9359/13/DICOM/5961FEB1
+/media/roland/WD_Passport/Anonymes/9359/13/DICOM/5961FEB2
+/media/roland/WD_Passport/Anonymes/9359/13/DICOM/5961FEB3
+/media/roland/WD_Passport/Anonymes/9359/13/DICOM/5961FEB4
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE82
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE83
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE84
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE85
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE86
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE87
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE88
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE95
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE96
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE97
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE98
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE99
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE9A
+/media/roland/WD_Passport/Anonymes/9359/14/DICOM/5961FE9B
+/media/roland/WD_Passport/Anonymes/9359/15/DICOM/5961F689
+/media/roland/WD_Passport/Anonymes/9359/15/DICOM/5961F68A
+/media/roland/WD_Passport/Anonymes/9359/15/DICOM/5961F68B
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000001
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000002
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000003
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000004
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000005
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000006
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000007
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000008
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000000/PR000009
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000001
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000002
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000003
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000004
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000005
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000006
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000007
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000008
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000001/PR000009
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000001
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000002
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000003
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000004
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000005
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000006
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000007
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000008
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000002/PR000009
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000000
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000001
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000002
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000003
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000004
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000005
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000006
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000007
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000008
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000003/PR000009
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000000
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000001
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000002
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000003
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000004
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000005
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000006
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000007
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000008
+/media/roland/WD_Passport/Anonymes/9471/01/DALLAIRE LUCIE H000967/DICOM/PA000000/ST000006/PR000009
+/media/roland/WD_Passport/Anonymes/9471/02/LONGPRE SUZANNE 85425/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/9471/02/LONGPRE SUZANNE 85425/DICOM/PA000000/ST000001/PR000001
+/media/roland/WD_Passport/Anonymes/9471/04/ST-GERMAIN MARIE 508256/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/9471/06/SURPRENANT CHANTAL 225312/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/9471/10/GOULET SYLVIE 94993/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/9471/11/COTE NATHALIE 223900/DICOM/PA000000/ST000000/PR000000
+/media/roland/WD_Passport/Anonymes/9471/11/COTE NATHALIE 223900/DICOM/PA000000/ST000000/PR000001
+/media/roland/WD_Passport/Anonymes/9471/14/LAMOTHE MARIE-JOSEE 206694/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/9471/15/GIRARD LINDA 85400/DICOM/PA000000/ST000001/PR000000
+/media/roland/WD_Passport/Anonymes/9471/15/GIRARD LINDA 85400/DICOM/PA000000/ST000002/PR000000
+/media/roland/WD_Passport/Anonymes/9617/01/MALTAIS_MANON_20170308-039/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/02/LEPAGE_LYNE_20170308-101/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/02/LEPAGE_LYNE_ANT_2012/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/02/LEPAGE_LYNE_ANT_2015/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/03/LAROUCHE_DIANE_20170308-089/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/9617/03/LAROUCHE_DIANE_20170308-089/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9617/03/LAROUCHE_DIANE_ANT_2013/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9617/03/LAROUCHE_DIANE_ANT_2013/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9617/03/LAROUCHE_DIANE_ANT_2015/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9617/03/LAROUCHE_DIANE_ANT_2015/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9617/04/TARDIF_CLAUDETTE_20170309-030/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/04/TARDIF_CLAUDETTE_ANT2012/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/04/TARDIF_CLAUDETTE_ANT2015/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/05/LAFLAMME_FRANCE_20170309-015/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/05/LAFLAMME_FRANCE_ANT2013/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/05/LAFLAMME_FRANCE_ANT2015/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/06/LAFLAMME_CAROLE_20170309-022/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9617/06/LAFLAMME_CAROLE_20170309-022/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9617/06/LAFLAMME_CAROLE_20170309-022/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/9617/06/LAFLAMME_CAROLE_ANT2014/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/07/MARCOUX_CELINE_20170309-034/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/08/DAIGLE_LISE_20170309-039/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9617/08/DAIGLE_LISE_20170309-039/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9617/08/DAIGLE_LISE_ANT2013/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/9617/08/DAIGLE_LISE_ANT2013/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9617/08/DAIGLE_LISE_ANT2013/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/9617/08/DAIGLE_LISE_ANT2015/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9617/08/DAIGLE_LISE_ANT2015/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9617/09/GAGNON_GAETANE_20170309-048/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9617/09/GAGNON_GAETANE_20170309-048/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9617/09/GAGNON_GAETANE_ANT2013/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9617/09/GAGNON_GAETANE_ANT2013/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9617/09/GAGNON_GAETANE_ANT2013/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/9617/09/GAGNON_GAETANE_ANT2015/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/10/MOREAU_LINE_20170309-072/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/9617/10/MOREAU_LINE_20170309-072/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9617/10/MOREAU_LINE_20170309-072/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9617/10/MOREAU_LINE_20170309-072/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/9617/10/MOREAU_LINE_ANT2012/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/10/MOREAU_LINE_ANT2014/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/11/JODOIN_LUCIE_20170310-006/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/11/JODOIN_LUCIE_20170310-006/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9617/12/BOURASSA_DIANE_20170310-024/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/12/BOURASSA_DIANE_ANT2015/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/12/BOURASSA_DIANE_ANT2016/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/13/GRENIER_FRANCE_20170310-019/DICOMOBJ/00000002
+/media/roland/WD_Passport/Anonymes/9617/13/GRENIER_FRANCE_20170310-019/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9617/13/GRENIER_FRANCE_20170310-019/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9617/13/GRENIER_FRANCE_20170310-019/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/9617/13/GRENIER_FRANCE_ANT2012/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/13/GRENIER_FRANCE_ANT2015/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/14/VIDAL_FRANCE_CAROLINE_20170310-059/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/15/NADEAU_SYLVIE_20170313-052/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/15/NADEAU_SYLVIE_ANT2012/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9617/15/NADEAU_SYLVIE_ANT2014/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/01/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/01/DICOMOBJ/0000000B
+/media/roland/WD_Passport/Anonymes/9733/01/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/9733/02/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/03/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/03/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9733/03/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/9733/03/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/9733/04/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/05/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/05/DICOMOBJ/00000008
+/media/roland/WD_Passport/Anonymes/9733/05/DICOMOBJ/00000009
+/media/roland/WD_Passport/Anonymes/9733/05/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/9733/05/DICOMOBJ/00000011
+/media/roland/WD_Passport/Anonymes/9733/06/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/06/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9733/06/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/9733/06/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/9733/07/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/07/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9733/07/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/9733/07/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/9733/08/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/08/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9733/08/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/9733/08/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/9733/09/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/09/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9733/09/DICOMOBJ/0000000F
+/media/roland/WD_Passport/Anonymes/9733/10/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/10/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9733/10/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/9733/10/DICOMOBJ/00000010
+/media/roland/WD_Passport/Anonymes/9733/11/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/11/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9733/12/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9733/12/DICOMOBJ/00000004
+/media/roland/WD_Passport/Anonymes/9733/12/DICOMOBJ/00000007
+/media/roland/WD_Passport/Anonymes/9733/12/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/9733/13/DICOMOBJ/00000003
+/media/roland/WD_Passport/Anonymes/9733/13/DICOMOBJ/00000006
+/media/roland/WD_Passport/Anonymes/9733/13/DICOMOBJ/0000000C
+/media/roland/WD_Passport/Anonymes/9733/14/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/14/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9733/15/DICOMOBJ/00000005
+/media/roland/WD_Passport/Anonymes/9733/15/DICOMOBJ/0000000A
+/media/roland/WD_Passport/Anonymes/9733/15/DICOMOBJ/0000000F
